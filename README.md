@@ -2,7 +2,7 @@
 
 > An only append register of all the inflow of tasks, things to remember, etc.
 
-- [date-time] : <name>
+- [date-time] : `<name>`
 
 ## References
 
