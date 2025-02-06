@@ -1,3 +1,15 @@
+- [2025-02-06 17:06:00] : Close Work day.
+- [2025-02-06 15:32:47] : Time dependent graph - https://link.springer.com/article/10.1007/s41019-019-00105-0
+- [2025-02-06 14:58:12] : Learn more about ollama https://github.com/ollama/ollama
+- [2025-02-06 11:46:58] : Add emojis bremontix/algorithms.
+- [2025-02-06 11:42:56] : Refactor bremontix/algorithms by moving directory structure description to guide.
+- [2025-02-06 11:18:32] : Create a Cellular Automata entry in dbremont/algorithms; and create the Conway Game of Life.
+- [2025-02-06 10:45:58] : Refactor Performce Entry.
+- [2025-02-06 10:10:04] : Write the trace model for a Thread.
+- [2025-02-06 10:04:07] : Make an entry in Bremontix Ars of Language Interoperability.
+- [2025-02-06 08:52:33] : Ir a desayunar; go notes are not finished.
+- [2025-02-06 08:42:41] : Improve My Go Languages Notes (Profile).
+- [2025-02-06 08:42:14] : Open Hacienda Work Session.
 - [2025-02-05 22:36:07] : Create a small pub-sub System in go
 - [2025-02-05 22:21:54] : Read the book "Go The Programing Language"  http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf
 - [2025-02-05 18:09:38] : Democratizing Compute, Part 2: What exactly is “CUDA”? https://www.modular.com/blog/democratizing-compute-part-2-what-exactly-is-cuda
