@@ -1,6 +1,9 @@
+- [2025-02-05 22:36:07] : Create a small pub-sub System in go
+- [2025-02-05 22:21:54] : Read the book "Go The Programing Language"  http://www.cs.uniroma2.it/upload/2017/TSC/The%20Go%20Programming%20Language.pdf
+- [2025-02-05 18:09:38] : Democratizing Compute, Part 2: What exactly is “CUDA”? https://www.modular.com/blog/democratizing-compute-part-2-what-exactly-is-cuda
+- [2025-02-05 17:49:19] : Comparison of terminal emulators https://www.youtube.com/watch?v=WxzYtdIcHnQ 
 - [2025-02-05 16:53:08] : Finish seccion trabajo hacienda.
 - [2025-02-05 16:45:59] : Migrate to Bremontix Arbistrista Energy Industry and History of Institutionalization of innovation.
 - [2025-02-05 16:41:44] : Agregar tareas recurrentes de ejecutar informacion.
 - [2025-02-05 15:16:30] : Utilize fswatch para notificar hacerca de los cambios de un archivo.
 - [2025-02-05 13:28:03] : Improve my understanding of .gitignore and how it works.
-
