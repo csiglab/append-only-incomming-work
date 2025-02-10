@@ -1,3 +1,5 @@
+- [2025-02-10 10:28:43] : Close Day 07 (Friday) and Open Day.
+- [2025-02-07 08:22:55] : Open Work Day.
 - [2025-02-06 17:06:00] : Close Work day.
 - [2025-02-06 15:32:47] : Time dependent graph - https://link.springer.com/article/10.1007/s41019-019-00105-0
 - [2025-02-06 14:58:12] : Learn more about ollama https://github.com/ollama/ollama
