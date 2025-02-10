@@ -1,3 +1,8 @@
+- [2025-02-10 15:47:47] : Working on Cleaning the Incoming Tasks.
+- [2025-02-10 13:38:36] : Working on checking if some tables where left without updating in ticket (SGF-10255)
+- [2025-02-10 13:37:59] : Working on Pending Tasks : Add All Books to Thesaurus.
+- [2025-02-10 10:37:22] : Remember to Begin Modelling Apps; Start Using Glowroot; to collect data.
+- [2025-02-10 10:34:47] : Working on Ticket: SGF-10253;  Hacer regla para impedir cotizaciones moneda x-x.
 - [2025-02-10 10:28:43] : Close Day 07 (Friday) and Open Day.
 - [2025-02-07 08:22:55] : Open Work Day.
 - [2025-02-06 17:06:00] : Close Work day.
