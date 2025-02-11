@@ -1,3 +1,6 @@
+- [2025-02-10 20:50:40] : Finish Work Day in House
+- [2025-02-10 20:49:03] : Finish Cleaning Incoming in 'Bremontix' 
+- [2025-02-10 18:55:49] : Start Adding Books to Thesaurus / Continue Cleaning the Incoming in Bermontix.
 - [2025-02-10 17:33:23] : Closing Closing the Day.
 - [2025-02-10 15:47:47] : Working on Cleaning the Incoming Tasks.
 - [2025-02-10 13:38:36] : Working on checking if some tables where left without updating in ticket (SGF-10255)
@@ -23,7 +26,7 @@
 - [2025-02-05 18:09:38] : Democratizing Compute, Part 2: What exactly is “CUDA”? https://www.modular.com/blog/democratizing-compute-part-2-what-exactly-is-cuda
 - [2025-02-05 17:49:19] : Comparison of terminal emulators https://www.youtube.com/watch?v=WxzYtdIcHnQ 
 - [2025-02-05 16:53:08] : Finish seccion trabajo hacienda.
-- [2025-02-05 16:45:59] : Migrate to Bremontix Arbistrista Energy Industry and History of Institutionalization of innovation.
+- [2025-02-05 16:45:59] : Migrate to Bremontix Arbistrista Energy Industry and History of Institutionalization of innoovation.
 - [2025-02-05 16:41:44] : Agregar tareas recurrentes de ejecutar informacion.
 - [2025-02-05 15:16:30] : Utilize fswatch para notificar hacerca de los cambios de un archivo.
 - [2025-02-05 13:28:03] : Improve my understanding of .gitignore and how it works.
