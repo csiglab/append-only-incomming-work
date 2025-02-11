@@ -1,3 +1,12 @@
+- [2025-02-11 16:43:43] : End of the Work Day.
+- [2025-02-11 16:43:15] : Instrument Node Using Open Telemetry / Write the output to traces.json
+- [2025-02-11 16:43:01] : Failed to build firefox in the local machine.
+- [2025-02-11 15:34:07] : Trying to build firefo; Not Possible  in the works computer.
+- [2025-02-11 15:33:40] : Generate a Profile for the Firefox Browser.
+- [2025-02-11 13:58:17] : Update configs to boostrap Node.
+- [2025-02-11 13:52:14] : Begin working on the profile JavaScript, NodeJS, V8, etc.
+- [2025-02-11 13:50:43] : In the first hours of the day i was working on the ticket of (actualizar montos problema de tasa / many tables / trial and error); i was also working inserting some missing rows in the table 'IG_AUTORIZACION_PAGO'.
+- [2025-02-11 13:49:26] : Begin Close Day; Actually a Delay in the Registration (12:44:07).
 - [2025-02-10 17:33:23] : Closing Closing the Day.
 - [2025-02-10 15:47:47] : Working on Cleaning the Incoming Tasks.
 - [2025-02-10 13:38:36] : Working on checking if some tables where left without updating in ticket (SGF-10255)
