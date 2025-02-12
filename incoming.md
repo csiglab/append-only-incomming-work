@@ -1,3 +1,22 @@
+- [2025-02-12 16:13:04] : Close Work Day.
+- [2025-02-12 15:59:45] : Fin (SGF-10239) y (SGF-10164); hice dos pruebas  y corregi un error - la tabla no permitia total y cantidad nulos; hacie que en el VO lo defini por default a 0 ambos.
+- [2025-02-12 15:10:00] : The Horrible Null Pointer Exception, caused by AspectJ, struck again.
+- [2025-02-12 13:02:43] : Recibi un ticket (SGF-10263);  pero despues me fue retirado.
+- [2025-02-12 10:53:13] : Start working again on Probar ticket (SGF-10239) y (SGF-10164) Juntos. - This is how procastination looks like.
+- [2025-02-12 10:53:01] : Add a note and copy some code about huffman codes.
+- [2025-02-12 10:19:29] : Clean Mails.
+- [2025-02-12 10:16:13] : Start working again on Probar ticket (SGF-10239) y (SGF-10164) Juntos.
+- [2025-02-12 10:09:50] : End Refactoring Information Theory.
+- [2025-02-12 08:40:00] : Refactor Information Theory.
+- [2025-02-12 08:36:08] : Add "sudo vim etc/hosts and add: 127.0.0.0.1 x.com" to Collection of Little Scriopts.
+- [2025-02-12 08:34:49] : I did not see this paper "Smyth R. “Should China be Promoting Large-Scale Enterprises and Enterprise Groups?” World Development 28 (2000)." but the Idea of large business groups; seems relevant.
+- [2025-02-12 08:33:01] : Add link "The fruits of misunderstanding" to Bremontix Ars.
+- [2025-02-12 08:32:40] : Add link attention to attention in Bremnotix Ars.
+- [2025-02-12 08:18:53] : Probar ticket (SGF-10239) y (SGF-10164) Juntos.
+- [2025-02-12 08:15:38] : Le informe a monegro sobre el  resultado del ticket  (SGF-10125).
+- [2025-02-12 08:12:37] : Verifique en produccion y el ticket (SGF-10125) Funciono.
+- [2025-02-12 08:04:06] : Verificer ticket (SGF-10125) - Mensajes Monitor Cuentas Intervenidas.
+- [2025-02-12 08:03:31] : Open 	work day.
 - [2025-02-12 01:06:49] : Close day and go to sleep
 - [2025-02-12 01:06:10] : Read to 1.1.3 - Evaluating Operator Combinations of the "Abelson, H., & Sussman, G. J. (1985). Structure and Interpretation of Computer Programs. MIT Press."
 - [2025-02-12 00:01:33] : Hackernews  reader as an example of tools for a reddit reader.
