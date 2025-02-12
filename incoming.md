@@ -1,3 +1,10 @@
+- [2025-02-12 01:06:49] : Close day and go to sleep
+- [2025-02-12 01:06:10] : Read to 1.1.3 - Evaluating Operator Combinations of the "Abelson, H., & Sussman, G. J. (1985). Structure and Interpretation of Computer Programs. MIT Press."
+- [2025-02-12 00:01:33] : Hackernews  reader as an example of tools for a reddit reader.
+- [2025-02-11 22:35:11] : Slow Down Sites / So I loose my love for them (twitter) ??
+- [2025-02-11 21:59:43] : Try to develop a tool to download the current reddit posts.
+- [2025-02-11 21:59:32] : Refactor DevOps
+- [2025-02-11 21:59:20] : Beging working from home.
 - [2025-02-11 16:43:43] : End of the Work Day.
 - [2025-02-11 16:43:15] : Instrument Node Using Open Telemetry / Write the output to traces.json
 - [2025-02-11 16:43:01] : Failed to build firefox in the local machine.
