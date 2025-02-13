@@ -1,3 +1,14 @@
+- [2025-02-12 23:42:45] : Finish Work Day (Home)
+- [2025-02-12 23:41:45] : I take several notes of the SICP; evaluation, function (declaraation, expression); substitution model of function applicatoin (evaluation).
+- [2025-02-12 23:39:06] :Debugging firefox is very hard; i was abble to create some breakpoints; and see some networking; rendering; the beginig of a journey.
+- [2025-02-12 21:04:09] : Try to create several breakpoints.
+- [2025-02-12 19:17:03] : Have some failures doin the build because of a rust version; upgrading rust.
+- [2025-02-12 19:16:14] : Login to some sites for firefox developers; https://bugzilla.mozilla.org and the https://phabricator.services.mozilla.com/ 
+- [2025-02-12 18:23:09] : In the mean wild; lets' start reading SICP.
+- [2025-02-12 18:21:56] : Firefox Download Failed; Try to used Git Large File Storage; if the process failed again.
+- [2025-02-12 18:00:30] : Downloading the Firefox Source Code.
+- [2025-02-12 17:41:51] : Add an entry of the webdriver protocol (a browse interaction protocol); model after the selenium webdriver.
+- [2025-02-12 17:03:26] : Open House Work Night
 - [2025-02-12 16:13:04] : Close Work Day.
 - [2025-02-12 15:59:45] : Fin (SGF-10239) y (SGF-10164); hice dos pruebas  y corregi un error - la tabla no permitia total y cantidad nulos; hacie que en el VO lo defini por default a 0 ambos.
 - [2025-02-12 15:10:00] : The Horrible Null Pointer Exception, caused by AspectJ, struck again.
