@@ -1,3 +1,16 @@
+- [2025-02-13 17:23:28] : Finish Work Day
+- [2025-02-13 17:23:11] : Finish Creating the Vala Profile.
+- [2025-02-13 16:14:40] : Create a the Vala Programming Langauge Profile.
+- [2025-02-13 16:11:03] : I have refactor "Enterprise Information System (EIS)".
+- [2025-02-13 15:29:43] : I have failed tryign to compile a gtk app. 
+- [2025-02-13 15:27:35] : After many hours trying to fix apt;  I have remove appstream package -> DEP-11;  becuase of a problem trying to download; icons; as a result of that struggle i have take some notes about the package maange sytem; to ease future issues.
+- [2025-02-13 11:41:18] : Trying to build tracer - tracy.
+- [2025-02-13 11:41:04] : Continue Working on Meta Labs.
+- [2025-02-13 11:19:26] : Finish add rules for certificaciones (SGF-10263)
+- [2025-02-13 09:56:27] : Begin creating a rule for for the certifications.
+- [2025-02-13 09:56:05] : I was trying to build tracy - and failed.
+- [2025-02-13 09:01:45] : Create meta-labs repo to create tools to study software systems  in various programming languages.
+- [2025-02-13 08:57:33] : Open the Work Day.
 - [2025-02-12 23:42:45] : Finish Work Day (Home)
 - [2025-02-12 23:41:45] : I take several notes of the SICP; evaluation, function (declaraation, expression); substitution model of function applicatoin (evaluation).
 - [2025-02-12 23:39:06] :Debugging firefox is very hard; i was abble to create some breakpoints; and see some networking; rendering; the beginig of a journey.
