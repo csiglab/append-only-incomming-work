@@ -1,3 +1,10 @@
+- [2025-02-13 22:55:20] : Finish Day
+- [2025-02-13 21:03:17] : Start reading section of the book SICP.
+- [2025-02-13 21:03:01] : I'am leaving the study of tracy; for the next day.  I need to install more dependencies like capstone.
+- [2025-02-13 21:02:29] : I discover that the build of tracy; cannot be done from the master branch; it has to be done for some reason in a tag.
+- [2025-02-13 19:29:31] : Let's try Tracy again.
+- [2025-02-13 19:28:29] : Vala Instalation; An First AI Generated Program; Well I Did Modified a bit; done.
+- [2025-02-13 18:38:47] : Beging Home Working
 - [2025-02-13 17:23:28] : Finish Work Day
 - [2025-02-13 17:23:11] : Finish Creating the Vala Profile.
 - [2025-02-13 16:14:40] : Create a the Vala Programming Langauge Profile.
