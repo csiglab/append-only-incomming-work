@@ -1,3 +1,8 @@
+- [2025-02-14 16:04:39] : I have take the day to advanced my study of low level systems.
+- [2025-02-14 09:37:12] : Notion is Down / https://status.notion.so/
+- [2025-02-14 09:32:01] : Fixing references in linux notes.
+- [2025-02-14 08:46:57] : Refactoring syscalls.
+- [2025-02-14 08:31:07] : Open Day: Study Linux, Set of Questions, Set of Problems, ... 
 - [2025-02-13 22:55:20] : Finish Day
 - [2025-02-13 21:03:17] : Start reading section of the book SICP.
 - [2025-02-13 21:03:01] : I'am leaving the study of tracy; for the next day.  I need to install more dependencies like capstone.
