@@ -1,3 +1,4 @@
+- [2025-02-14 16:22:10] : End work day.
 - [2025-02-14 16:04:39] : I have take the day to advanced my study of low level systems.
 - [2025-02-14 09:37:12] : Notion is Down / https://status.notion.so/
 - [2025-02-14 09:32:01] : Fixing references in linux notes.
