@@ -1,3 +1,7 @@
+- [2025-02-15 01:35:32] : I read some Linux Kernel Development
+- [2025-02-14 23:12:25] : I need to learn about securityl; signing.
+- [2025-02-14 23:11:30] : I Was trying to develop a module; i was able to compoiled;  but secure boot was enable; hence the module needs a sign. I stop me; but enought of low level prog for today.
+- [2025-02-14 17:58:11] : Start Work From Home / Refactor the Mouse Entry / Read the SICP Book; 
 - [2025-02-14 16:22:10] : End work day.
 - [2025-02-14 16:04:39] : I have take the day to advanced my study of low level systems.
 - [2025-02-14 09:37:12] : Notion is Down / https://status.notion.so/
