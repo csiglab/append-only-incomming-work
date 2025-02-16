@@ -1,3 +1,8 @@
+- [2025-02-16 01:38:49] : I failed to archieve this "Haskell, C#,  Linux (Add References Books),  Data Systems (Refactor)"
+- [2025-02-15 20:56:32] : I have finish making the entries for every book.
+- [2025-02-15 20:55:55] : I have been streamin slow; i I have waste a lot of time on this; but i add the four volumne sof the "papers in complexity science"
+- [2025-02-15 16:00:21] : Organize the fuondational papers in complexity science
+- [2025-02-15 12:44:05] : Opening Day: Organize Books, Haskell, C#,  Linux (Add References Books),  Data Systems (Refactor)
 - [2025-02-15 01:35:32] : I read some Linux Kernel Development
 - [2025-02-14 23:12:25] : I need to learn about securityl; signing.
 - [2025-02-14 23:11:30] : I Was trying to develop a module; i was able to compoiled;  but secure boot was enable; hence the module needs a sign. I stop me; but enought of low level prog for today.
