@@ -1,3 +1,21 @@
+- [2025-02-17 15:42:35] : WORKING: Installing Vala LSP. 
+- [2025-02-17 15:36:13] : Add a small regex implementation to algorithms.
+- [2025-02-17 15:22:18] : Refactor Regex, ad move Formal System ->  Language System.
+- [2025-02-17 15:21:56] : I add the link to github of Apache Trift.
+- [2025-02-17 15:16:02] : Create an entry for a functor.
+- [2025-02-17 14:30:41] : Refactor the Entry of Monad.
+- [2025-02-17 14:28:31] : In Language System - Change Annotation of "Control Flow" to "...".
+- [2025-02-17 13:49:29] : Refactor a bit - data systems. 
+- [2025-02-17 13:32:52] : Crate security labs.
+- [2025-02-17 13:03:54] : Refactor labs.
+- [2025-02-17 11:46:57] : Open Telemetry
+- [2025-02-17 10:58:07] : Refactor C#.
+- [2025-02-17 10:22:55] : Craete a Haskell Entry.
+- [2025-02-17 10:12:22] : Write about the philosohpy of metrology of Language Systems -> Let's say X is the set of all possible worklods? Which is the best language to express the workload?
+- [2025-02-17 10:06:53] : Add language system comppotnents to Performace Notes.
+- [2025-02-17 10:05:52] : Finish Languge Performace Study Guide
+- [2025-02-17 08:59:20] : Add a Language Performace Seccion to "Study of Programming Languagues"
+- [2025-02-17 08:35:29] : Open Work Day.
 - [2025-02-16 22:28:28] : Finish Day
 - [2025-02-16 18:21:32] : Work on the introductio of "Beyond Belief - Randomness, Prediction, and Explanation in Science"
 - [2025-02-16 18:08:54] : Add entry in the circle of competence>
