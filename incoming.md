@@ -1,3 +1,9 @@
+- [2025-02-16 22:28:28] : Finish Day
+- [2025-02-16 18:21:32] : Work on the introductio of "Beyond Belief - Randomness, Prediction, and Explanation in Science"
+- [2025-02-16 18:08:54] : Add entry in the circle of competence>
+- [2025-02-16 18:00:04] : Move modelling principle to system/model
+- [2025-02-16 15:36:21] : Refactor skills
+- [2025-02-16 15:36:12] : Begin work sunday.
 - [2025-02-16 01:38:49] : I failed to archieve this "Haskell, C#,  Linux (Add References Books),  Data Systems (Refactor)"
 - [2025-02-15 20:56:32] : I have finish making the entries for every book.
 - [2025-02-15 20:55:55] : I have been streamin slow; i I have waste a lot of time on this; but i add the four volumne sof the "papers in complexity science"
