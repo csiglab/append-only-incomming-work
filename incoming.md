@@ -1,4 +1,7 @@
-- [2025-02-17 15:42:35] : WORKING: Installing Vala LSP. 
+- [2025-02-17 23:28:39] : End of the work day.
+- [2025-02-17 23:23:19] : I  manage to create the configuration for the bash language server.
+- [2025-02-17 23:23:05] : Open work nigh/ a little bit delayed.
+- [2025-02-17 15:42:35] : WORKING: Installing Vala LSP.
 - [2025-02-17 15:36:13] : Add a small regex implementation to algorithms.
 - [2025-02-17 15:22:18] : Refactor Regex, ad move Formal System ->  Language System.
 - [2025-02-17 15:21:56] : I add the link to github of Apache Trift.
