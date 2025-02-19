@@ -1,3 +1,10 @@
+- [2025-02-19 12:36:51] : El dia anterior; tube que salir para el medico y no pude cerrar el dia.
+- [2025-02-18 14:34:26] : Partidas mal actualizas para el problema de la tasa.
+- [2025-02-18 10:45:09] : Verificar caso sigef monegro usos de tasas.
+- [2025-02-18 10:43:01] : Procesar links - agregar to https://gist.github.com/dbremont/3718f384c711be504d520ddbd0846446
+- [2025-02-18 10:37:20] : TERMINADO: GSC-619 - Falta analisis etiologico.
+- [2025-02-18 09:18:27] : WORKING: On the ticket GSC-619 - TK62707-Pagos realizados , completados en SIRITE y no aparece en GSC.
+- [2025-02-18 09:18:04] : Start of the workday.
 - [2025-02-17 23:28:39] : End of the work day.
 - [2025-02-17 23:23:19] : I  manage to create the configuration for the bash language server.
 - [2025-02-17 23:23:05] : Open work nigh/ a little bit delayed.
