@@ -1,3 +1,10 @@
+- [2025-02-19 16:54:06] : Add the models of space used in physics
+- [2025-02-19 15:34:22] : Finish the newton method.
+- [2025-02-19 13:41:26] : Migrate the models  from algorithms to modelarium.
+- [2025-02-19 13:41:09] : Create a repo for models (https://github.com/dbremont/modelarium/tree/main)
+- [2025-02-19 13:32:20] : Termine el ticket SGF-10276.
+- [2025-02-19 12:55:43] : Registrar y ordenar información médica.
+- [2025-02-19 12:38:52] : ABRIR: Abrir dia.
 - [2025-02-19 12:36:51] : El dia anterior; tube que salir para el medico y no pude cerrar el dia.
 - [2025-02-18 14:34:26] : Partidas mal actualizas para el problema de la tasa.
 - [2025-02-18 10:45:09] : Verificar caso sigef monegro usos de tasas.
