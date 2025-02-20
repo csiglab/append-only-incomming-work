@@ -1,3 +1,6 @@
+- [2025-02-20 02:28:29] : Finish day.
+- [2025-02-20 00:40:44] : WORKING: Beyond Belief-Use the Introduction Info → To Generate a Sipnosis of Every Chapter.
+- [2025-02-20 00:40:08] : START: OPen work night.
 - [2025-02-19 16:54:06] : Add the models of space used in physics
 - [2025-02-19 15:34:22] : Finish the newton method.
 - [2025-02-19 13:41:26] : Migrate the models  from algorithms to modelarium.
