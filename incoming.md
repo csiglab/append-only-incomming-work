@@ -1,3 +1,18 @@
+- [2025-02-21 16:08:00] : Finish working day.
+- [2025-02-21 15:46:28] : Add network parsing; and make the first commit to networking-labs.
+- [2025-02-21 13:07:06] : Finish refactoring docker.
+- [2025-02-21 11:34:35] : WORKING: Refactoring docker.
+- [2025-02-21 11:09:48] : Add an entry to switch virtualization
+- [2025-02-21 11:08:11] : Add guide on how to add networknig to a virtual machine.
+- [2025-02-21 11:03:35] : Working on networking !!!
+- [2025-02-21 10:26:45] : Add link to "Train Your Own 01 Preview" / Bremontix Ars.
+- [2025-02-21 10:15:53] : Envio correo parval retorno inversion
+- [2025-02-21 09:47:38] : Remove research fields; add them to guides.
+- [2025-02-21 09:23:31] : Add a how's to to git note in bremontix ars; to git check-ignore.
+- [2025-02-21 09:15:22] : Add link "Torque Clustering"
+- [2025-02-21 08:30:13] : Install the bash langauge server.
+- [2025-02-21 08:26:18] : Add the "NASA has a list of 10 rules for software development" to the "Bremontix / System"
+- [2025-02-21 08:22:27] : START: Start 	working.
 - [2025-02-21 01:31:53] : End working day.
 - [2025-02-21 01:31:22] : End with some idea of the adjoin property; its pragmatics !!!
 - [2025-02-21 00:59:02] : Refactor time entry including the ISO 8601 format.
