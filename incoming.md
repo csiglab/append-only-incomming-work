@@ -1,3 +1,14 @@
+- [2025-02-25 15:48:15] : Remove reflexio notion; and from 1password.
+- [2025-02-25 15:45:12] : Remove github account arbitrista y reflexio; move the content to csiglab.
+- [2025-02-25 15:04:50] : Move Bremontix Args Brevariums to 'Laboratorim Personalem'
+- [2025-02-25 13:21:48] : Create a personal lab "Laboratorium Personale" to auto study; replace B Reflection.
+- [2025-02-25 11:37:36] : @remember create a tool to add to this notes; the next day wheater forecast. 
+- [2025-02-25 11:31:57] : @learning adding a taxonmoy of sentences (oraciones).
+- [2025-02-25 11:06:16] : Verificadndo la retro-alimentacion del ticket SGF-10263; nunca se hablo de botones.
+- [2025-02-25 11:00:11] : Termine de trabajar el ticket sgf-10253.
+- [2025-02-25 10:28:00] : Me rendi; intentado explicar que "NO hay registro vinculado"  !=   "todos los registros vinculados están anulados".
+- [2025-02-25 10:11:49] : @working ticket sgf-10253  - permitir anular tickets.
+- [2025-02-25 09:56:15] : @working Mejorado ticket SGF-10253.
 - [2025-02-25 08:48:02] : @working Organizing tickets.
 - [2025-02-25 08:45:34] : STAR: @working Organizing tickets.- [2025-02-25 08:40:43] : I failed to end the day.
 - [2025-02-24 15:48:13] : In ther morning I did not have DB Access; In the afternoon; I am working on the Monegro Recovery Ticket.
