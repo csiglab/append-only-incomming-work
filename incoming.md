@@ -1,3 +1,4 @@
+- [2025-02-25 17:05:36] : @action finish work day.
 - [2025-02-25 15:48:15] : Remove reflexio notion; and from 1password.
 - [2025-02-25 15:45:12] : Remove github account arbitrista y reflexio; move the content to csiglab.
 - [2025-02-25 15:04:50] : Move Bremontix Args Brevariums to 'Laboratorim Personalem'
