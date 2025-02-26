@@ -1,3 +1,18 @@
+- [2025-02-26 17:30:12] : @remember to create  a mechanism to save json files for our api.
+- [2025-02-26 15:11:39] : @task continue with ticket (SGF-9982); it failed becaused i need the json for the contrato testting.
+- [2025-02-26 14:51:49] : @action finish previous task.
+- [2025-02-26 14:10:20] : @task Move all the web sercvers / backend frameworks to multi-node processing system.
+- [2025-02-26 14:08:53] : @action  create a new entry in computation; called multi-node processing system: merge distributed system and processing system here.
+- [2025-02-26 13:38:32] : @action/failed to install jenkins because the our central repo; problems.  http://172.16.7.40:8080/repositor
+- [2025-02-26 13:38:12] : @action created some actually great notes about jenkin.
+- [2025-02-26 10:31:16] : @action cancel the project reduce the velocity of a given domain; but certain elements of the projects were accomplish; like improving the nerwork notes; network control taxonomy; etc. 
+- [2025-02-26 10:30:33] : @idea Add some draft to network labs and performce labs adding networks tools to control the network bandwtih and other performace parameters.
+- [2025-02-26 10:29:53] : @idea Add some draft for a project for the sigef analysis tools.
+- [2025-02-26 10:02:13] : @action Create repo for lab of estudios hispanicos  / https://github.com/csiglab/lab-estudios-hispanicos.
+- [2025-02-26 09:53:03] : @task   (SGF-9982) Check the ticke; they were checking on wrong data. But the service; are able to udpate this data.
+- [2025-02-26 09:11:50] : @task   Create a history la; repo/ see Bremontix Laboratorio.
+- [2025-02-26 09:11:19] : @action Crate a guide to read biographys.
+- [2025-02-26 09:10:44] : Start day.
 - [2025-02-25 17:05:36] : @action finish work day.
 - [2025-02-25 15:48:15] : Remove reflexio notion; and from 1password.
 - [2025-02-25 15:45:12] : Remove github account arbitrista y reflexio; move the content to csiglab.
