@@ -1,3 +1,18 @@
+- [2025-02-27 21:28:58] : end of working day.
+- [2025-02-27 16:52:34] : @action an xv6; copy.
+- [2025-02-27 15:58:23] : @action "System V Application Binary Interface
+- [2025-02-27 15:49:17] : @create mini diss.
+- [2025-02-27 15:38:48] : @action create a small diss using a framework capstone.
+- [2025-02-27 15:30:34] : @task create a small dissambler; first used castom; letter alone.
+- [2025-02-27 15:17:47] : @action add a dissamsebler objdump.
+- [2025-02-27 15:17:34] : @action add a linker
+- [2025-02-27 14:57:03] : @action migrate tracy lab to analysis lab .
+- [2025-02-27 14:35:38] : @task document & migrate the example to analysis labs.
+- [2025-02-27 14:35:05] : @action i was able to compile tracy server; instrument a litle arithmetic server; and see it.
+- [2025-02-27 09:54:07] : @task make the guide of c language; compatible with my language study template.
+- [2025-02-27 09:42:31] : @task libc; and their implementations; source code, etc.
+- [2025-02-27 09:22:43] : @remember How to edit binary files; bin utils guide; elf utils guide; buy a file system book; how to list the dependencies in a elf file; what is a statistically link vs dynamically link elf file. How to list statically link file; how to debug an elf file; with independnet debug symbols; create a better environment for gdb debug; reasong to learn gdb (sometimes software is too large that other programs collapses; maximum flexibility);  code of a dissamsebler; code of a linker; c profile; go runtime; go elf files; c elf files; xv6 run in qemu; qemu improvements; libc source code; and notes; groovy notes; how to list the size of a program regions; like executable memory.
+- [2025-02-27 09:22:18] : Open Work Day.
 - [2025-02-26 17:30:12] : @remember to create  a mechanism to save json files for our api.
 - [2025-02-26 15:11:39] : @task continue with ticket (SGF-9982); it failed becaused i need the json for the contrato testting.
 - [2025-02-26 14:51:49] : @action finish previous task.
