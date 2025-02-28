@@ -1,3 +1,17 @@
+- [2025-02-28 16:22:02] : @action finish program/process modification.
+- [2025-02-28 15:51:40] : @action create more taks about distributed stated.
+- [2025-02-28 11:50:43] : @action encontre un buen simil en castellano para la palabra inglesa snipet; fragmento; recurso literario, mero literario, syntagma.
+- [2025-02-28 11:39:41] : @action commit ini; mensajeria extention.
+- [2025-02-28 11:06:56] : @task convert a webp; to icon16.png, icon48.png, icon128.png
+- [2025-02-28 10:00:10] : @task create template for formal meesages in Microsoft Teams.
+- [2025-02-28 09:59:48] : @action; mejorar notas de fpt.
+- [2025-02-28 09:32:19] : @task create intro for fpt : clien; server, etc:.
+- [2025-02-28 09:08:22] : @action complete "Langauge System + Formal System".
+- [2025-02-28 08:48:08] : @task improve the knowledge based entry. 
+- [2025-02-28 08:47:40] : @action create a stub method in Instrumentation.
+- [2025-02-28 08:47:03] : @task  move the content of "Language System + Formal System" to Languge System.
+- [2025-02-28 08:17:11] : @action clean Bremontix; Historical 'Projects'.
+- [2025-02-28 08:16:36] : @action open work day. 
 - [2025-02-27 21:28:58] : end of working day.
 - [2025-02-27 16:52:34] : @action an xv6; copy.
 - [2025-02-27 15:58:23] : @action "System V Application Binary Interface
