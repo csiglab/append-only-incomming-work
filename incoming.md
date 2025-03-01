@@ -1,3 +1,11 @@
+- [2025-03-01 02:14:00] : Failed again; but continue; until sucess
+- [2025-02-28 23:32:10] : Why some places of the kernel must be compile with optimization?
+- [2025-02-28 21:47:15] : @note this is horrible; i have been trying to install things.
+- [2025-02-28 20:03:02] : @action transferi 1 400 000; a papi por compra de solar; esperando el recibo final a ver cuando me falta' tengo el 50 perc; de la propiedad.
+- [2025-02-28 19:49:43] : @taks how visudo works.
+- [2025-02-28 19:40:25] : @action send info to ariel in order to gather information about properties prices.
+- [2025-02-28 18:27:33] : @action take note on the initrd method.
+- [2025-02-28 17:25:21] : @action start the working night section.
 - [2025-02-28 16:22:02] : @action finish program/process modification.
 - [2025-02-28 15:51:40] : @action create more taks about distributed stated.
 - [2025-02-28 11:50:43] : @action encontre un buen simil en castellano para la palabra inglesa snipet; fragmento; recurso literario, mero literario, syntagma.
