@@ -1,3 +1,4 @@
+- [2025-03-02 00:54:19] : This day was complicated; i did failed to debug linux; but take nodes; improve the logging system; waste some time too; maybe too much; fuck the internet(or just me); end this.
 - [2025-03-01 22:49:01] : Improve the  personal log system; adding identifiers to tasks.
 - [2025-03-01 21:58:08] : @action add info about pkg-config.
 - [2025-03-01 19:29:20] : @task(3c6e68a1-262f-4038-9aa1-04a100680718) Debug linux kernel.
