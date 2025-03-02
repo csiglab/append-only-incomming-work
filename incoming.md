@@ -1,3 +1,11 @@
+- [2025-03-01 22:49:01] : Improve the  personal log system; adding identifiers to tasks.
+- [2025-03-01 21:58:08] : @action add info about pkg-config.
+- [2025-03-01 19:29:20] : @task(3c6e68a1-262f-4038-9aa1-04a100680718) Debug linux kernel.
+- [2025-03-01 18:40:25] : @todo write a guide to the social sciences;  in the spirit of simplification.
+- [2025-03-01 18:39:18] : I don't wnat to have a lot of financial analysis - in Bremontix Ars; make the most useful ones as guides.
+- [2025-03-01 18:20:33] : I have try so many things; failed. Learn somethign about logging failures; task ->  goal; path1 -> ... -> result; How to model this in paper?
+- [2025-03-01 10:18:08] : @task try to debug linux once and for all.
+- [2025-03-01 10:09:18] : Open work day; continue with Linux Kernel.
 - [2025-03-01 02:14:00] : Failed again; but continue; until sucess
 - [2025-02-28 23:32:10] : Why some places of the kernel must be compile with optimization?
 - [2025-02-28 21:47:15] : @note this is horrible; i have been trying to install things.
