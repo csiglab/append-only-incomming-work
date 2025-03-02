@@ -7,3 +7,4 @@
 ## References
 
 - `date "+%Y-%m-%d %H:%M:%S"`
+- [Designing a Personal Log System](https://www.notion.so/Designing-a-Personal-Log-System-1a5d38c7497c80e4834df3ded5dfcdc1)
