@@ -1,3 +1,13 @@
+- [2025-03-02 21:50:07] : <name>
+- [2025-03-02 17:50:59] : @action @task(fc95496b-f4a6-43ea-839a-9fecc2fcea14) done.
+- [2025-03-02 14:49:57] : @task write a guide about knowledge evaluation;  and how to speak about things that you don't know?
+- [2025-03-02 14:42:29] : @task(fc95496b-f4a6-43ea-839a-9fecc2fcea14) thinkg about understnding things; as multiple layer of abstraction; ..
+- [2025-03-02 14:30:26] : @task make a guide for the languge used; like iniframfs; is not a filed system; the qemu gdb; is not gdbserver; but a qemu implementatino of the protocol; etc.
+- [2025-03-02 14:17:39] : @action enviar mensaje respuesta luis sobre persoald e odoo.
+- [2025-03-02 12:53:51] : @task supermarket buys.
+- [2025-03-02 12:15:41] : @action created method for naming recu-rring projects.
+- [2025-03-02 11:58:25] : @action escribi a pipa para llamar a guelo.
+- [2025-03-02 11:57:52] : @Working sunday.
 - [2025-03-02 00:54:19] : This day was complicated; i did failed to debug linux; but take nodes; improve the logging system; waste some time too; maybe too much; fuck the internet(or just me); end this.
 - [2025-03-01 22:49:01] : Improve the  personal log system; adding identifiers to tasks.
 - [2025-03-01 21:58:08] : @action add info about pkg-config.
