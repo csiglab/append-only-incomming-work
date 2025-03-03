@@ -1,3 +1,14 @@
+- [2025-03-03 16:58:36] : @action improve linguistic abstraciones note with modelling function  modeling date; data types  computatoin or function type.
+- [2025-03-03 15:32:28] : @task what type of pattern or code organization technique is Consumer in Java.
+- [2025-03-03 14:08:28] : @action deliver the letter; there was not objection.
+- [2025-03-03 13:27:14] : @action write document about my exclusion of the empleado estrella price.
+- [2025-03-03 12:53:22] : @task create a groovy profile.
+- [2025-03-03 12:52:44] : @action add some notes to thesaurus.
+- [2025-03-03 12:09:27] : Seria conbeniente tener una forma de rastrear los cambios a una coneccion; y poder ejecutar consultas en la misma; para verificar los cambios no commited
+- [2025-03-03 12:08:56] : Se logro re-aprobar el formulario y rechazar la factura del mismo.
+- [2025-03-03 09:23:59] : @task Work on uepex document.
+- [2025-03-03 09:19:31] : I recover the documents. Juan Carlos found them. Let's be more systematic; and put the document in there place; so i can reduce the amound of time needed to acknowledge that i lost the document.
+- [2025-03-03 09:18:45] : start work day.
 - [2025-03-02 21:50:07] : the end of this weekend is weekend in which i lost money and all my documents.
 - [2025-03-02 17:50:59] : @action @task(fc95496b-f4a6-43ea-839a-9fecc2fcea14) done.
 - [2025-03-02 14:49:57] : @task write a guide about knowledge evaluation;  and how to speak about things that you don't know?
