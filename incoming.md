@@ -1,3 +1,4 @@
+- [2025-03-05 08:03:49] : @close tomorow day
 - [2025-03-04 16:27:36] : should i explore more dapr?
 - [2025-03-04 16:26:54] : @action create a functional model of computation.
 - [2025-03-04 16:01:44] : @action create a note entry on distributed databases.
