@@ -1,3 +1,30 @@
+- [2025-03-04 16:27:36] : should i explore more dapr?
+- [2025-03-04 16:26:54] : @action create a functional model of computation.
+- [2025-03-04 16:01:44] : @action create a note entry on distributed databases.
+- [2025-03-04 15:41:49] : learn about division operator, rates, ratio, etc. relation to marginalisn in economics; differential operator (calculus) / differental calculus; geometry; and the history of ideas.
+- [2025-03-04 14:52:09] : Space distribution of agencies in the Hacienda Edification.
+- [2025-03-04 14:32:44] : How can I localize the suggestions / autocomplete in zsh per directory? This is not salable
+- [2025-03-04 14:24:45] : @action written a descent treaty on states; natural; enginer; naming criterias;  criteria to represent conditions; etc.
+- [2025-03-04 13:31:00] : @action improve the notes on semantics, formal specifition and formal verification.
+- [2025-03-04 12:04:20] : @task continue with state; and modelling.
+- [2025-03-04 12:02:38] : @action finish the tas(20250210-sgf-10253).
+- [2025-03-04 11:38:15] : @task in ticket 20250210-sgf-10253; keep only the rules that ban x-x exchange rate registration.
+- [2025-03-04 10:48:09] : @think about the state of and objec; representation; and how to name states.
+- [2025-03-04 10:33:13] : @task improve the definition of monad.
+- [2025-03-04 10:10:18] : @action add book "Manual de Cadenas Productivas"
+- [2025-03-04 10:04:02] : @action add book  Human Knowledge: its scope and limits
+- [2025-03-04 10:03:46] : @action add the book of historia de las formas polticas.
+- [2025-03-04 09:59:09] : @action add a profile of marx weber.
+- [2025-03-04 09:56:41] : @action add "Weber, M. (1962). Basic concepts in sociology. Citadel Press."
+- [2025-03-04 09:56:27] : @action add book "Weber, M., Roth, G., & Wittic, C. (1978). Max Weber economy and society. CA: Berkeley, University of California Press."
+- [2025-03-04 09:51:20] : @action add Eliezer Yudkowsky; to Catálogo de Persoans.
+- [2025-03-04 09:47:09] : @action "Yudkowsky, E. (2015). Rationality: from AI to zombies. Berkeley: Machine Intelligence Research Institute.".
+- [2025-03-04 09:45:36] : @action finish a guide to enerprises.
+- [2025-03-04 09:40:23] : @action finish a guide to the social studies.
+- [2025-03-04 09:15:57] : @task write a guide to the enterprise.
+- [2025-03-04 09:14:17] : @task write a guide to social sciences; to only concentrate on social-economic systems.
+- [2025-03-04 09:11:02] : @action registrado exclusio lista de empleado estrella.
+- [2025-03-04 09:03:31] : @start of the work day.
 - [2025-03-04 03:28:03] : @end of work day.
 - [2025-03-04 03:14:17] : @action task(3c6e68a1-262f-4038-9aa1-04a100680718)/path(7ef099ff-3230-4cf0-85d1-f958d2d99ffd): try to copy my ubuntu kernel config;  have to do and update to that config; so it is an agreement with the new kernel sources. I consulted with the requireements,  well the path also failed !!! Let's continue tomorrow; and make sure that you come back with more knowledge.
 - [2025-03-04 00:18:29] : @follow task(3c6e68a1-262f-4038-9aa1-04a100680718)/path(7ef099ff-3230-4cf0-85d1-f958d2d99ffd) 
