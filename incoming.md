@@ -1,3 +1,11 @@
+- [2025-03-05 17:16:29] : finish very bad day; many ticket failures.
+- [2025-03-05 15:59:28] : The ticket (SGF-10928)  was more complicated then we thought; now were are experimenting problems; 
+- [2025-03-05 11:42:50] : @task verificar monitor sirite:  MonitorConciliaArchivoRecaudacion.
+- [2025-03-05 11:38:02] : task: check the ticket SGF-10298.
+- [2025-03-05 09:10:39] : task: check ticket 20250213-sgf-10263.
+- [2025-03-05 09:09:32] : @action improve the question related to file systems.
+- [2025-03-05 08:09:32] : @start working day.
+- [2025-03-05 08:07:09] : sinse i did not register tonight works: i was able to build the kernel (using linux /boot - uname -r) kernel + build an image using some google tool. I did also explore some raw file serer; unounded; it's just a blob.
 - [2025-03-05 08:03:49] : @close tomorow day
 - [2025-03-04 16:27:36] : should i explore more dapr?
 - [2025-03-04 16:26:54] : @action create a functional model of computation.
@@ -48,7 +56,7 @@
 - [2025-03-02 14:30:26] : @task make a guide for the languge used; like iniframfs; is not a filed system; the qemu gdb; is not gdbserver; but a qemu implementatino of the protocol; etc.
 - [2025-03-02 14:17:39] : @action enviar mensaje respuesta luis sobre persoald e odoo.
 - [2025-03-02 12:53:51] : @task supermarket buys.
-- [2025-03-02 12:15:41] : @action created method for naming recu-rring projects.
+- [2025-03-02 12:15:41] : @action created method for naming recu-rring projects- [2025-03-02 11:58:25] : @action escribi a pipa para llamar a guelo.
 - [2025-03-02 11:58:25] : @action escribi a pipa para llamar a guelo.
 - [2025-03-02 11:57:52] : @Working sunday.
 - [2025-03-02 00:54:19] : This day was complicated; i did failed to debug linux; but take nodes; improve the logging system; waste some time too; maybe too much; fuck the internet(or just me); end this.
