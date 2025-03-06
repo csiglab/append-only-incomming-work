@@ -1,3 +1,11 @@
+- [2025-03-06 16:47:37] : @finish work day
+- [2025-03-06 16:12:05] : @action add the book "Lessons In Industrial Instrumentation".
+- [2025-03-06 16:11:13] : @action oracle did not support many values inser; how incredible; at least the version that we used.
+- [2025-03-06 14:17:39] : @action create note on emulators.
+- [2025-03-06 14:13:48] : @task work on isa-labs.
+- [2025-03-06 10:00:35] : @notes advaced in some hardware studies.
+- [2025-03-06 09:38:28] : @note the ticket (sgf-10263) was correct.
+- [2025-03-06 08:23:41] : @open work day; let's see what can we do with some ticket (sgf-10263)
 - [2025-03-06 02:31:47] : @close work night; os, hardware, telecom, physics of telecom,  x86, intermedia representation, ...
 - [2025-03-06 01:47:35] : Which are the criterias used to decide which things will be log?
 - [2025-03-06 01:27:15] : @action register defeat reading the book "Adorno, T. (2005). Minima Moralia: Reflections from Damaged Life. Verso. "
