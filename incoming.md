@@ -1,3 +1,8 @@
+- [2025-03-06 02:31:47] : @close work night; os, hardware, telecom, physics of telecom,  x86, intermedia representation, ...
+- [2025-03-06 01:47:35] : Which are the criterias used to decide which things will be log?
+- [2025-03-06 01:27:15] : @action register defeat reading the book "Adorno, T. (2005). Minima Moralia: Reflections from Damaged Life. Verso. "
+- [2025-03-06 00:26:57] : note: reusing/ a database connection in another process; is just re-using the file descriptor in another process; or the same process; using only the OS for more generality. Becuase if it's in the same process; you just can share it manually; or to some automated program transformation to do it.
+- [2025-03-05 22:08:27] : @open work night.
 - [2025-03-05 17:16:29] : finish very bad day; many ticket failures.
 - [2025-03-05 15:59:28] : The ticket (SGF-10928)  was more complicated then we thought; now were are experimenting problems; 
 - [2025-03-05 11:42:50] : @task verificar monitor sirite:  MonitorConciliaArchivoRecaudacion.
