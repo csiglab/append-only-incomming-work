@@ -1,4 +1,8 @@
-- [2025-03-06 16:47:37] : @finish work day
+- [2025-03-07 00:57:02] : mostly productive work night; not that much twitter; and other stuff. I am beginnig to hate watchign videos (gracias a dios)
+- [2025-03-06 22:06:18] : @task  read the paper "On the criteria to be used in decomposing systems into modules"
+- [2025-03-06 21:54:34] : @task trying to accomplish refactoring of isa-labs and continue reading the book on  design and implementation of the freebsd operating system book.
+- [2025-03-06 21:54:19] : @open work night.
+- [2025-03-06 16:47:37] : @close work day
 - [2025-03-06 16:12:05] : @action add the book "Lessons In Industrial Instrumentation".
 - [2025-03-06 16:11:13] : @action oracle did not support many values inser; how incredible; at least the version that we used.
 - [2025-03-06 14:17:39] : @action create note on emulators.
