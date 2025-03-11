@@ -1,3 +1,50 @@
+- [2025-03-11 17:01:40] : close work day.
+- [2025-03-11 17:00:52] : @action remove hpc; create an entry fo hps: study hr; algo; .. bulding bloacks for highly performace systems.
+- [2025-03-11 14:29:56] : dañe todo el trabajo para "SGF-10314"
+- [2025-03-11 14:22:40] : check failed in "SGF-10253"
+- [2025-03-11 13:58:05] : @task explore sigef java language source encoding problem.
+- [2025-03-11 13:20:25] : should i crate a performade pervatium; how to build fast systems; in linux; or how to make the most from hardware; from first pricniples -> hardware characterization -> ... HPC -> High Performace Computing !!!
+- [2025-03-11 12:51:09] : should very piece of text; should be out of the application.
+- [2025-03-11 09:26:26] : @task create literature review in many in the below fields.
+- [2025-03-11 08:55:08] : @task gather a collection of computer science: disributed systems, compiler, interpreter, jit compilers, dabases, etc.
+- [2025-03-11 08:53:06] : @note yesterday; i did not close the work day properly; but in home i was able to install the paper's place.
+- [2025-03-11 08:52:53] : @open work day
+- [2025-03-10 17:05:11] : @action on (SGF-10314) -> improve spacing in ach 
+- [2025-03-10 15:07:24] : @task start working on ticket (SGF-10314).
+- [2025-03-10 11:32:33] : @action finish ticket (SGF-10313)
+- [2025-03-10 11:32:21] : @open work day; 
+- [2025-03-09 21:20:11] : @close of the work day
+- [2025-03-09 11:38:50] : should i merge sysetms, philosophy, and epistemology? Yes; because my goal of study philsopy; is only realtey  with metaphysics and epistemology  of reality.
+- [2025-03-09 10:56:49] : @note how to acces to env variables from assembly?
+- [2025-03-09 10:37:03] : @note can i merge simulation with numerical computation?
+- [2025-03-09 10:08:32] : @acton merge csiglab/econmodels with modellarium.
+- [2025-03-09 10:02:57] : @action remove repo csiglab/econometric
+- [2025-03-09 10:02:40] : @action remove repo csiglab/arbitrista
+- [2025-03-09 09:45:52] : @open work day
+- [2025-03-09 00:56:13] : @close work day
+- [2025-03-08 23:52:12] : @action add some models case study; gather some data; make model; this should be necesarilly be under natural systems; or  other area of study; becuase is not that relevant; or add uncesiarlly details; but it's a usefull practice to connect with modelarium. 
+- [2025-03-08 23:21:57] : @action take a very deep dive in physics;  electromagnisms; and related areas; turn that that electromagnism is pillar or reality;
+- [2025-03-08 13:45:59] : @action mege telecom and networking.
+- [2025-03-08 12:59:47] : @merge telecom and networking.
+- [2025-03-08 12:50:02] : @note working on networking now.
+- [2025-03-08 12:48:30] : @action create  a discent note on dpkg.
+- [2025-03-08 11:55:30] : @task add a note on dpkg; or update it.
+- [2025-03-08 11:53:48] : @open worknig saturday: reading saturday
+- [2025-03-08 03:46:27] : @close working night
+- [2025-03-08 03:45:47] : @action simplify isa_labs
+- [2025-03-08 00:13:26] : Note: I am cleaning a litle bit distracted.
+- [2025-03-07 22:33:45] : @open work night: goals finish chapter 2 freebsd book; advanced in the isa-labs refactoring-reconversion problem.
+- [2025-03-07 16:52:29] : @task SGF-10313  -  
+- [2025-03-07 15:39:24] : @action create an entry on graph processing.
+- [2025-03-07 15:13:01] : @action sepearte visualization.
+- [2025-03-07 14:42:23] : @task write about graph processing.
+- [2025-03-07 14:40:45] : @task improve log entry. 
+- [2025-03-07 14:40:09] : @action improve logs processing notes.
+- [2025-03-07 10:43:50] : @create a guide to long term informatio storage.
+- [2025-03-07 10:41:12] : @create a small python http service; in linenode.
+- [2025-03-07 09:45:30] : @action add theory of light in computer graphics.
+- [2025-03-07 09:45:09] : @taks check the progress of testing with the ticket (SGF-10164)
+- [2025-03-07 09:44:22] : @open workday: i forget to open it; in the morni; but it is fine.
 - [2025-03-07 00:57:02] : mostly productive work night; not that much twitter; and other stuff. I am beginnig to hate watchign videos (gracias a dios)
 - [2025-03-06 22:06:18] : @task  read the paper "On the criteria to be used in decomposing systems into modules"
 - [2025-03-06 21:54:34] : @task trying to accomplish refactoring of isa-labs and continue reading the book on  design and implementation of the freebsd operating system book.
