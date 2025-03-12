@@ -1,3 +1,6 @@
+- [2025-03-12 07:08:42] : @note reflection on how to choose papers to read; add  a heuristic; using knowldge gain.
+- [2025-03-12 07:05:06] : @action add Ilya Sutskever' papers recommendations to Carmack.
+- [2025-03-12 07:04:30] : open work day
 - [2025-03-12 05:56:40] : close work night; without work; i sleep all night
 - [2025-03-11 18:31:20] : open work nigh open work night 
 - [2025-03-11 17:01:40] : close work day.
