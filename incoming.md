@@ -1,3 +1,5 @@
+- [2025-03-12 05:56:40] : close work night; without work; i sleep all night
+- [2025-03-11 18:31:20] : open work nigh open work night 
 - [2025-03-11 17:01:40] : close work day.
 - [2025-03-11 17:00:52] : @action remove hpc; create an entry fo hps: study hr; algo; .. bulding bloacks for highly performace systems.
 - [2025-03-11 14:29:56] : dañe todo el trabajo para "SGF-10314"
