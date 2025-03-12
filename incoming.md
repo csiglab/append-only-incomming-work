@@ -1,3 +1,6 @@
+- [2025-03-12 16:43:39] : move telecoms papers & boosk to evalute from bremontix to telecom review.
+- [2025-03-12 15:19:30] : @action trying to get help with the ticket SGF-10263; could not. So let's try tommorrow.
+- [2025-03-12 13:54:10] : task  working on ticket (SGF-10314).
 - [2025-03-12 07:08:42] : @note reflection on how to choose papers to read; add  a heuristic; using knowldge gain.
 - [2025-03-12 07:05:06] : @action add Ilya Sutskever' papers recommendations to Carmack.
 - [2025-03-12 07:04:30] : open work day
