@@ -1,3 +1,14 @@
+- [2025-03-13 01:26:22] : @end work night
+- [2025-03-13 00:07:35] : @task read the paper "support-vector networks'.
+- [2025-03-13 00:00:14] : @action create an entry to explore agentic systems in bremontix ars.
+- [2025-03-12 23:25:01] : @action add entry to bremontix ars - on choosing papers to read.
+- [2025-03-12 22:35:42] : @action guradar factura de connected papers in sha1sum name - in dropbox.
+- [2025-03-12 22:26:43] : @future  How to update my literature in computer science systematically.
+- [2025-03-12 22:22:01] : @action clean literature review in Bremontix.
+- [2025-03-12 21:29:57] : @action add entry to Bremontox Ars in low-latency software design.
+- [2025-03-12 21:29:35] : @action add entry to Bremontix Ars in fault-tolerant design.
+- [2025-03-12 21:25:19] : move "2024-V1: House Improvement" to Historico.
+- [2025-03-12 21:05:30] : @start working night 
 - [2025-03-12 16:43:39] : move telecoms papers & boosk to evalute from bremontix to telecom review.
 - [2025-03-12 15:19:30] : @action trying to get help with the ticket SGF-10263; could not. So let's try tommorrow.
 - [2025-03-12 13:54:10] : task  working on ticket (SGF-10314).
