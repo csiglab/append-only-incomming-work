@@ -1,3 +1,18 @@
+- [2025-03-17 08:31:35] : @open work day
+- [2025-03-15 21:37:47] : @close working day
+- [2025-03-15 21:18:59] : @action finish merging AspectJ with systems stuyds lab.
+- [2025-03-15 12:53:07] : @task finish refactoring of aspeject notes; adding the  book  "AspectJ In Action" reference.
+- [2025-03-15 12:51:46] : @task AspectJ to the analysis labs.
+- [2025-03-15 12:51:26] : @make a list of the papers and books to print in sunday
+- [2025-03-15 12:51:20] : @buy books
+- [2025-03-15 12:51:04] : @open work day
+- [2025-03-15 00:37:05] : @close work night
+- [2025-03-14 23:55:05] : @tratar de obtener informacion tipo empresa de papi.
+- [2025-03-14 23:10:29] : @action create several aspject aspects of @action create several aspject aspects of examplee
+- [2025-03-14 22:11:47] : What is the meanign of an app in linux running in the context of an user?
+- [2025-03-14 21:51:52] : @action merge cs tooling guide to "A Guide to a Guide on X Computational Systems Implementation"
+- [2025-03-14 20:15:23] : @task work on AspectJ - trying to  re-produce errors of weaving - on certain ordering of the files.
+- [2025-03-14 18:22:22] : START working night.
 - [2025-03-13 13:59:52] : @action crate a guide on the creation of java computational system.
 - [2025-03-13 13:50:24] : @action crate a guide to "A Guide to a Guide on X Computational Systems Implementation" - similar a guide to study programming languages.
 - [2025-03-13 13:38:27] : @action create benefiario validatoni for ticket (SGF-10263); done at the level of nomina.
