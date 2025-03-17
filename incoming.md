@@ -1,3 +1,15 @@
+- [2025-03-17 16:41:55] : @close work day
+- [2025-03-17 14:10:48] : @action create an entry on experssions and operator order of evluatio.
+- [2025-03-17 13:52:12] : @action create a guide on "Abstract Algebra in Computer Science"
+- [2025-03-17 11:49:50] : @action crete a a guide on "Mental Model Refactorin" 
+- [2025-03-17 10:38:44] : @action create several intros in  glosarim.
+- [2025-03-17 09:45:35] : @task write a guide about "Mental Model Refactoring"
+- [2025-03-17 09:05:15] : @action pay the house month rent.
+- [2025-03-17 09:01:21] : @task pay the house month rent.
+- [2025-03-17 09:00:42] : @report i have done the previous tasks.
+- [2025-03-17 08:51:50] : @task remove proclamatio aeconomica from bremontix/algorithms.
+- [2025-03-17 08:48:25] : @task add the Journal of Operation Research to Thesaurus.
+- [2025-03-17 08:32:55] : @task create a github rep; model after dbremont/algorithms for quantiative management.
 - [2025-03-17 08:31:35] : @open work day
 - [2025-03-15 21:37:47] : @close working day
 - [2025-03-15 21:18:59] : @action finish merging AspectJ with systems stuyds lab.
