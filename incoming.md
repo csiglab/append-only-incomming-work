@@ -1,5 +1,15 @@
+- [2025-03-18 16:30:25] : @close work day
+- [2025-03-18 14:37:19] : @action create an entry on the deep ideas of dimension.
+- [2025-03-18 13:22:33] : @task think deeply about system/interface error messages quality.
+- [2025-03-18 13:09:19] : @task add a note on the notion and langauge dis. for dimension.
+- [2025-03-18 12:55:51] : @task investigate infinite dimensiontal spaces; thelos; ethos; tecne. What is the notion of dimension here? Does the notion of 
+- [2025-03-18 12:54:52] : @task change the name of vector space -> to linear space; because some vector spaces may be non linear.
+- [2025-03-18 12:51:53] : @task study vector space; span;  matrix span -> column space; row space;  null space; left null space.
+- [2025-03-18 11:42:34] : @action create a very deep connection between; Modelling Case Studies; and Modellin; (Computational Science, etc).
+- [2025-03-18 09:45:07] : note very deep dive into type: variance, the idea of monotonicity (how to used it to reason and build distributed system; if in only learn this today; my day is done; such a beautufyl idea; apply in many contexts.
+- [2025-03-18 09:45:00] : @open work day
 - [2025-03-17 16:41:55] : @close work day
-- [2025-03-17 14:10:48] : @action create an entry on experssions and operator order of evluatio.
+- [2025-03-17 14:10:48] : @action create an entry on experssions and operator order of evolution.
 - [2025-03-17 13:52:12] : @action create a guide on "Abstract Algebra in Computer Science"
 - [2025-03-17 11:49:50] : @action crete a a guide on "Mental Model Refactorin" 
 - [2025-03-17 10:38:44] : @action create several intros in  glosarim.
