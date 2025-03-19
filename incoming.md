@@ -1,3 +1,7 @@
+- [2025-03-19 02:36:50] : @close work night
+- [2025-03-19 02:35:39] : note i have work inthe Change-making problem;  related to linear combinations, diophantine equations, combinatorial optimization etc. I need to continue deepening & compacting my knolwdge of the problem solving methods.
+- [2025-03-19 00:04:39] : @task work on the "Change-making Problem"
+- [2025-03-19 00:04:25] : @open working night
 - [2025-03-18 16:30:25] : @close work day
 - [2025-03-18 14:37:19] : @action create an entry on the deep ideas of dimension.
 - [2025-03-18 13:22:33] : @task think deeply about system/interface error messages quality.
