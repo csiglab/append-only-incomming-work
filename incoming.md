@@ -1,3 +1,9 @@
+- [2025-03-19 16:26:32] : @close work day
+- [2025-03-19 16:20:49] : I make some progress; an i reflection that in order to follow an algorithm; i have to look at the state of the computaton; understand it's meaning; how how the dynamics of the algorithm; wil lead to the solution.
+- [2025-03-19 16:20:10] : i spend the  day trying to understand the algorith of coin change; in it's dynamic programmgni form.
+- [2025-03-19 15:44:19] : @action finish "SGF-10329" 
+- [2025-03-19 08:05:32] : @note I should used Audio Processing; as a Way to learn more advanced math; improve my basic math concepts;
+- [2025-03-19 08:04:11] : @open work day
 - [2025-03-19 02:36:50] : @close work night
 - [2025-03-19 02:35:39] : note i have work inthe Change-making problem;  related to linear combinations, diophantine equations, combinatorial optimization etc. I need to continue deepening & compacting my knolwdge of the problem solving methods.
 - [2025-03-19 00:04:39] : @task work on the "Change-making Problem"
