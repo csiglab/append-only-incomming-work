@@ -1,3 +1,7 @@
+- [2025-03-20 00:53:38] : @close work night
+- [2025-03-20 00:52:40] :  note: In this night I  continue trying to understand the "Coin Change Problem' algorithm; I did not finish; but improving. I make some notes about how to study algorithms;  and other notes about diffusion process.
+- [2025-03-20 00:52:02] : A way to improve my knowldge of science; is to take problems that are computaitonal; mathematical about a real process
+- [2025-03-19 19:54:43] : @open work night
 - [2025-03-19 16:26:32] : @close work day
 - [2025-03-19 16:20:49] : I make some progress; an i reflection that in order to follow an algorithm; i have to look at the state of the computaton; understand it's meaning; how how the dynamics of the algorithm; wil lead to the solution.
 - [2025-03-19 16:20:10] : i spend the  day trying to understand the algorith of coin change; in it's dynamic programmgni form.
