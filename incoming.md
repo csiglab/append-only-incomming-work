@@ -1,5 +1,10 @@
+- [2025-03-20 16:40:15] : @close work day
+- [2025-03-20 16:40:00] : @action corergir error montos - sirite - 20250320-sir-673
+- [2025-03-20 09:58:35] : @action take some notes about logic; structural rules; sub structural logic systems.
+- [2025-03-20 09:50:38] : @action reasong and take notes about python debugging.
+- [2025-03-20 08:26:57] : @open work day
 - [2025-03-20 00:53:38] : @close work night
-- [2025-03-20 00:52:40] :  note: In this night I  continue trying to understand the "Coin Change Problem' algorithm; I did not finish; but improving. I make some notes about how to study algorithms;  and other notes about diffusion process.
+- [2025-03-20 00:52:40] : note: In this night I  continue trying to understand the "Coin Change Problem' algorithm; I did not finish; but improving. I make some notes about how to study algorithms;  and other notes about diffusion process.
 - [2025-03-20 00:52:02] : A way to improve my knowldge of science; is to take problems that are computaitonal; mathematical about a real process
 - [2025-03-19 19:54:43] : @open work night
 - [2025-03-19 16:26:32] : @close work day
