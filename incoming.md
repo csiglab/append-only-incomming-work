@@ -1,3 +1,8 @@
+- [2025-03-21 00:32:18] : @close work night
+- [2025-03-21 00:07:53] : @action add some info to react entry
+- [2025-03-21 00:06:55] : note reason in very technical sense about; the relation of mental models - programs - process=;  captuing the deep meaning of being an efficient problem solving.
+- [2025-03-20 22:44:18] : note i make some serious problem visuliaing ; and mental modelling the coin change probem dp  solution. I improve the naming;
+- [2025-03-20 17:33:27] : @open work night
 - [2025-03-20 16:40:15] : @close work day
 - [2025-03-20 16:40:00] : @action corergir error montos - sirite - 20250320-sir-673
 - [2025-03-20 09:58:35] : @action take some notes about logic; structural rules; sub structural logic systems.
