@@ -1,3 +1,12 @@
+- [2025-03-21 16:30:04] : @close work day
+- [2025-03-21 16:25:37] : tryign to reason about msgpack;
+- [2025-03-21 13:52:02] : @task how to parse log files?
+- [2025-03-21 13:36:13] : note neo4;  just used modify sql; in postgress; it can handle the graph data model. 
+- [2025-03-21 12:48:50] : @action create a guide to "A Guide to a Production Observability System"
+- [2025-03-21 11:53:13] : not; SGF-10329 para el ticke; una conversion del lote; quedo en estado no final; y por eso no se permitia agregarlo en otro coprobante.
+- [2025-03-21 11:52:04] : note (SIR-673) para el ticke;  me equivoque no supe leer el historico de commits; y a partir de este inferi discrepancias entre branch y tag; cuando no la habia. Por eso es recomendable hacer compare.
+- [2025-03-21 08:24:16] : @task check "SGF-10329" and "SIR-673".
+- [2025-03-21 08:20:08] : @open work day
 - [2025-03-21 00:32:18] : @close work night
 - [2025-03-21 00:07:53] : @action add some info to react entry
 - [2025-03-21 00:06:55] : note reason in very technical sense about; the relation of mental models - programs - process=;  captuing the deep meaning of being an efficient problem solving.
