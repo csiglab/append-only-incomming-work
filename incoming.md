@@ -1,3 +1,8 @@
+- [2025-03-22 02:08:45] : @close work night
+- [2025-03-22 02:08:28] : @action improve notes on numeric represenation.
+- [2025-03-22 00:25:14] : @action create a guide on list of cs system benchmarks
+- [2025-03-22 00:24:06] : @action create an entry for Python computational system performace analysis.
+- [2025-03-21 20:46:59] : @open work night
 - [2025-03-21 16:30:04] : @close work day
 - [2025-03-21 16:25:37] : tryign to reason about msgpack;
 - [2025-03-21 13:52:02] : @task how to parse log files?
