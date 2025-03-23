@@ -1,3 +1,23 @@
+- [2025-03-23 00:43:06] : @close end work day
+- [2025-03-22 23:53:37] : @action add a note on f-coalgebra a model of the object oriented system.
+- [2025-03-22 23:32:03] : @task creaet a guide to debug others peoples minds.
+- [2025-03-22 23:05:15] : @note i came up with the name "Time Reference System"; for capturing the idea ofa  system to measure time; the name was already coin for the same idea. Great stuff.
+- [2025-03-22 22:17:49] : @note "Experience and thought are rudimentary forms of understanding"
+- [2025-03-22 20:12:58] : improve a bit the times notes.
+- [2025-03-22 19:46:10] : @note how to fix systems; this is ve yinteresting;  very general; and very strategic; that will trully help integrate all my knowledge.
+- [2025-03-22 17:51:35] : @action create a liteature review on causality
+- [2025-03-22 17:50:02] : @task write a guide about improving computatioal systems in a principled way
+- [2025-03-22 17:13:40] : @task reasonng a bit about causal models; intervention.
+- [2025-03-22 16:13:58] : @task improve computer system aluaton emtrics taxonomy
+- [2025-03-22 13:05:24] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579) write a guide about paper publishing; typeopgrapy; .. document design? i dont know how to name it yet.
+- [2025-03-22 11:58:25] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579) which type of software is related with the internationalization process.
+- [2025-03-22 11:45:26] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579) add an entry in miscelanea dbremont github; about typography & internnationalization.
+- [2025-03-22 10:28:07] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579) refactor the general representation text/data; move the ml details to computational representation; ml.
+- [2025-03-22 10:27:19] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579) all of my knowledge of text; should be resume in the document of typography.
+- [2025-03-22 10:21:48] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579)/ What font redenring library is used in python/zsh/kitty interaction?
+- [2025-03-22 10:19:04] : @task(aeedfc83-a61a-47fa-b6a8-351085d41579)  improving my textual representation notes.
+- [2025-03-22 09:45:12] : @task representation/numeric/ieee 754; take notes.
+- [2025-03-22 09:19:38] : @open work day
 - [2025-03-22 02:08:45] : @close work night
 - [2025-03-22 02:08:28] : @action improve notes on numeric represenation.
 - [2025-03-22 00:25:14] : @action create a guide on list of cs system benchmarks
