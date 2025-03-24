@@ -1,3 +1,8 @@
+- [2025-03-24 00:35:41] : @close work day
+- [2025-03-24 00:35:28] : @note finish a great organization on coordination.
+- [2025-03-23 12:23:04] : @note create a coordination reading list.
+- [2025-03-23 12:12:38] : @note i am working on multi process coordination 
+- [2025-03-23 11:17:19] : @open work day
 - [2025-03-23 00:43:06] : @close end work day
 - [2025-03-22 23:53:37] : @action add a note on f-coalgebra a model of the object oriented system.
 - [2025-03-22 23:32:03] : @task creaet a guide to debug others peoples minds.
