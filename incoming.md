@@ -1,3 +1,11 @@
+- [2025-03-24 23:41:41] : @close work day
+- [2025-03-24 23:41:29] : note: i should start working seriously on software analysis.
+- [2025-03-24 23:01:58] : @action improve the category of tools & libraries buiding blocks of computational systems.
+- [2025-03-24 23:01:50] : @action improve the notes on php.
+- [2025-03-24 17:14:42] : @actiohn add a link  / set of programming langauges to; models of computation.
+- [2025-03-24 16:57:26] : @action finish refactoring model of computation. I did a great job.
+- [2025-03-24 12:03:56] : @task big refactorign to "Models of Computation"
+- [2025-03-24 12:03:40] : @open start working day
 - [2025-03-24 00:35:41] : @close work day
 - [2025-03-24 00:35:28] : @note finish a great organization on coordination.
 - [2025-03-23 12:23:04] : @note create a coordination reading list.
