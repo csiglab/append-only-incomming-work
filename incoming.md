@@ -1,3 +1,27 @@
+- [2025-03-26 16:48:17] : @close work day
+- [2025-03-26 15:39:34] : @action cearch more info on "https://en.wikipedia.org/wiki/Orbital_mechanics"
+- [2025-03-26 11:41:04] : @action improve the note on cpu; performance counters; etc.
+- [2025-03-26 11:40:35] : @action add entry to linux; on which services; api are provided  by the kernel; to trace and monitor the system.
+- [2025-03-26 11:40:03] : @action a a guide to study computation systems; add this to HPS/Analysis.
+- [2025-03-26 11:39:40] : @action add latency entry; with latency  numbers that i should know
+- [2025-03-26 11:38:01] : @action install netdata (http://localhost:19999)
+- [2025-03-26 11:29:10] : @note i dig to deper on performace;  heppes before semantic specs; performance issues cataloc; etc.
+- [2025-03-26 08:43:19] : @action add a section to note on performace counters.
+- [2025-03-26 08:42:06] : @action create a note on cpu tracing & monitoring facilities. 
+- [2025-03-26 08:29:26] : @note working on CPU Performce Characterization
+- [2025-03-26 08:15:44] : @open work day
+- [2025-03-26 01:36:14] : finish work night
+- [2025-03-26 01:34:47] : improve the analysis; notes.
+- [2025-03-25 23:20:43] : worknig with the book "Jain, R. (1990). The Art of Computer Systems Performance Analysis. John Wiley & Sons."
+- [2025-03-25 22:28:34] : @open work night
+- [2025-03-25 15:54:46] : @i tried perf; but they where not realtime; and in the report i was not able to find some function; mapping issues.
+- [2025-03-25 14:38:54] : @note i could not make systemtap work.
+- [2025-03-25 13:50:32] : @task check systemtap.
+- [2025-03-25 13:49:50] : @note gcc -gp is not real tim; we need to way the finish/program in order to see the metrics.
+- [2025-03-25 12:53:00] : @note iam adding a note on profiler.
+- [2025-03-25 10:00:20] : @taks start working on analysis.
+- [2025-03-25 09:58:06] : @note the registration of the working day; was a litle bit late; i was giving axistance to testing.
+- [2025-03-25 09:57:58] : @start working day
 - [2025-03-24 23:41:41] : @close work day
 - [2025-03-24 23:41:29] : note: i should start working seriously on software analysis.
 - [2025-03-24 23:01:58] : @action improve the category of tools & libraries buiding blocks of computational systems.
