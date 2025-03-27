@@ -1,3 +1,8 @@
+- [2025-03-27 01:57:44] : @close working night
+- [2025-03-27 01:57:24] : @note some notes about the solar system; and celestial mechanics.
+- [2025-03-27 01:08:54] : @note  a deep dive into the dimensions of understanding; and how unerstadnign  build reference systems in our frame; to parse and communicaet reality.
+- [2025-03-27 00:43:36] : @note deep dive into calendar; and the profound idea of reference system; reference frame, etc.
+- [2025-03-26 17:41:11] : @start working night
 - [2025-03-26 16:48:17] : @close work day
 - [2025-03-26 15:39:34] : @action cearch more info on "https://en.wikipedia.org/wiki/Orbital_mechanics"
 - [2025-03-26 11:41:04] : @action improve the note on cpu; performance counters; etc.
