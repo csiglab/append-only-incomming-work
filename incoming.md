@@ -1,3 +1,12 @@
+- [2025-03-28 02:36:27] : finish work day
+- [2025-03-28 01:49:35] : @task generaet a minimal set of questions;  that is neccesariy and sufficnet to explore the scope.
+- [2025-03-28 01:21:18] : @note sinse the virtual table is mangle;  we have to learn about it.
+- [2025-03-28 00:43:13] : I have seen for the first time the vtable (virtual tables) in c++.
+- [2025-03-27 23:50:56] : @task trying to understand the concept of a v-table in cpp.
+- [2025-03-27 23:15:34] : @note ow to name a set of interacting actors? Is this a system? I believe that the word system; the word cmoplex system denotes the idea that i have in mind; but i believe it's an abuse of the word system.
+- [2025-03-27 23:13:42] : @action write a guide on the philosophers toolbox,
+- [2025-03-27 22:28:27] : @task refacto entry on a guide to ask questions.
+- [2025-03-27 22:27:57] : @open work night
 - [2025-03-27 16:46:19] : @close work day
 - [2025-03-27 16:45:07] : @action finish the ticket (SGF-10340); i take too much time because; it was hard to deploy contabilidad; error aspjectj.
 - [2025-03-27 08:44:42] : @open work day
