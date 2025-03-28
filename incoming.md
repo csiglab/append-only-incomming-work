@@ -1,3 +1,8 @@
+- [2025-03-28 16:30:28] : @close finish work day 
+- [2025-03-28 10:46:52] : @note el sr p.d no tiene derecho a quejarse del trabajo remoto; hoy se nego a poner la imagen de protesta.
+- [2025-03-28 09:18:09] : @note should i introduce an entry in programming languges to metacomputation; or ni toolbox?
+- [2025-03-28 09:04:03] : @task (SGF-10344) work on ticket; it will require it; some knoweldge increment of my part of java instrumentation.
+- [2025-03-28 09:03:40] : @open work night
 - [2025-03-28 02:36:27] : finish work day
 - [2025-03-28 01:49:35] : @task generaet a minimal set of questions;  that is neccesariy and sufficnet to explore the scope.
 - [2025-03-28 01:21:18] : @note sinse the virtual table is mangle;  we have to learn about it.
