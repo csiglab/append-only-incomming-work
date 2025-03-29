@@ -1,3 +1,12 @@
+- [2025-03-28 23:54:23] : @close work night
+- [2025-03-28 23:53:19] : @action move java-agent to cs-analysis tools.
+- [2025-03-28 23:25:12] : @task improve bytecode entry.
+- [2025-03-28 23:24:53] : @learn a bit a bout byte code compability  - asm version.
+- [2025-03-28 20:32:30] : @task trying to think trought the implementation of java agents; and how to make a class visible; to the boostrap namespace.
+- [2025-03-28 19:30:34] : @note learning about java code reslution
+- [2025-03-28 18:37:39] : @task improve "Concurrency Control Methods" taxonomy.
+- [2025-03-28 18:35:49] : @task convertir pagos luis a dolares.
+- [2025-03-28 18:32:44] : @open work night
 - [2025-03-28 16:30:28] : @close finish work day 
 - [2025-03-28 10:46:52] : @note el sr p.d no tiene derecho a quejarse del trabajo remoto; hoy se nego a poner la imagen de protesta.
 - [2025-03-28 09:18:09] : @note should i introduce an entry in programming languges to metacomputation; or ni toolbox?
