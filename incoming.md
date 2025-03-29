@@ -1,3 +1,13 @@
+- [2025-03-29 17:55:01] : @close work day
+- [2025-03-29 13:11:46] : @task create a catalog of programming techniques; and replace a programing technique for a programming pattern.
+- [2025-03-29 12:33:04] : @action pago iternet.
+- [2025-03-29 12:17:10] : @action add the literatire review to firefox.
+- [2025-03-29 12:16:32] : @action adding a represention sense in the guide to study programming languages.
+- [2025-03-29 12:06:42] : @connect closuwer with jepsen; distributed software verification tool.
+- [2025-03-29 11:45:32] : @action add an entry to clojure. 
+- [2025-03-29 11:04:57] : @task mejorar info pagos prestamo l.
+- [2025-03-29 10:57:18] : @taks today goals: jepsen (testing tools); Pago L Converdolres;  Agregar Listo de Copras de Libros Firefox;  Java Instrumentation (Hacer Vario Pom Varios Jars / Modulos)
+- [2025-03-29 10:56:14] : @open work day
 - [2025-03-28 23:54:23] : @close work night
 - [2025-03-28 23:53:19] : @action move java-agent to cs-analysis tools.
 - [2025-03-28 23:25:12] : @task improve bytecode entry.
