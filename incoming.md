@@ -1,3 +1,9 @@
+- [2025-03-30 23:33:28] : @close work day; and weekend happy with the result.
+- [2025-03-30 20:35:55] : @action register language systems technology books in thesuarus; link with notes in bycode vm.
+- [2025-03-30 18:15:16] : @action Create a smal lvirtual machine [DONE WITH THE HELP OF CHATGPT I SHOULD SAY]
+- [2025-03-30 12:01:52] : @note on modularization; a file it's  itself a modularization primitive.
+- [2025-03-30 11:42:49] : @action refactor the progrrmming language study guide.
+- [2025-03-30 10:21:55] : @task work on refactorization.
 - [2025-03-29 17:55:01] : @close work day
 - [2025-03-29 13:11:46] : @task create a catalog of programming techniques; and replace a programing technique for a programming pattern.
 - [2025-03-29 12:33:04] : @action pago iternet.
