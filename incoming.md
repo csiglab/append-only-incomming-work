@@ -1,3 +1,28 @@
+- [2025-04-01 16:41:37] : @close work day
+- [2025-04-01 16:41:03] : @note in the house i should continue; working on python, textual and rich.
+- [2025-04-01 14:33:40] : @action finish refactoring System.
+- [2025-04-01 14:30:17] : @note finish a note on compositionality
+- [2025-04-01 14:08:13] : @note improve the notes on evaluation
+- [2025-04-01 13:40:55] : @note of progress; make some improvements; on; System Design.
+- [2025-04-01 12:07:26] : @note of progress; a lot of progress has been made;  in softwre architecture note; we have already the tooling; architectural components, architectural models (case study), architectur representation; pitfalls; 
+- [2025-04-01 11:12:41] : @action reactoring of the main note of system design.
+- [2025-04-01 11:03:14] : @note of progres: i have continue creating entries for dystems design; those entries latter will need to be refactor.
+- [2025-04-01 10:35:43] : @note add deontic logic to security.
+- [2025-04-01 10:10:37] : @note here to report the progress; we have the overal structure of the note; from system architecture; design; implementation;  analysis (verification, ...)
+- [2025-04-01 08:52:26] : @note today I have the great mission of refactoring Systems.
+- [2025-04-01 08:52:09] : @open work day
+- [2025-04-01 01:42:21] : @note a minimal amount of time was waste; almost no twitter; some youtube thought.
+- [2025-04-01 01:41:42] : @note this night was a deep dive into logic; formal sysetms, etc;  they was no time for  refactor systeems.
+- [2025-03-31 21:39:08] : @task refactor systems.
+- [2025-03-31 21:35:25] : @task work a bit in logic (free variables; logic reading list, sub structural logic)
+- [2025-03-31 21:35:13] : @open work night
+- [2025-03-31 14:51:28] : @note I have finish separating the agent / sample in java agent project.
+- [2025-03-31 09:21:43] : @nota la contraseña solo se puede cambiar cuado hay una notificacion del correo; (idiota); si lo intentas te dice que la contraseña no cumple con las politicas de seguridad; un mensaje horrible; con una gran discrepancia entre el estado (actual) del sistema y el estado denotado por el mensaje.
+- [2025-03-31 08:50:40] : @task problemas con la contraseña.
+- [2025-03-31 08:11:49] : @task can i find a a way to automate my passwords updates; or at least add some notifications previous to the expiratio.
+- [2025-03-31 08:04:45] : @task deep dive into variables free variables; bound variables; calling semantics; add reference to SCPI book; logic books.
+- [2025-03-31 08:03:53] : @task finish the prepatarion of the testing tool for sigef.
+- [2025-03-31 08:03:45] : @open work day
 - [2025-03-30 23:33:28] : @close work day; and weekend happy with the result.
 - [2025-03-30 20:35:55] : @action register language systems technology books in thesuarus; link with notes in bycode vm.
 - [2025-03-30 18:15:16] : @action Create a smal lvirtual machine [DONE WITH THE HELP OF CHATGPT I SHOULD SAY]
@@ -29,7 +54,7 @@
 - [2025-03-28 09:04:03] : @task (SGF-10344) work on ticket; it will require it; some knoweldge increment of my part of java instrumentation.
 - [2025-03-28 09:03:40] : @open work night
 - [2025-03-28 02:36:27] : finish work day
-- [2025-03-28 01:49:35] : @task generaet a minimal set of questions;  that is neccesariy and sufficnet to explore the scope.
+- [2025-03-28 01:49:35] : @task generaet a minimal set of questions;  that is neccesariy and suficiente to explore the scope.
 - [2025-03-28 01:21:18] : @note sinse the virtual table is mangle;  we have to learn about it.
 - [2025-03-28 00:43:13] : I have seen for the first time the vtable (virtual tables) in c++.
 - [2025-03-27 23:50:56] : @task trying to understand the concept of a v-table in cpp.
