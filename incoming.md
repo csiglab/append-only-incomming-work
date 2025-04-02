@@ -1,3 +1,8 @@
+- [2025-04-02 01:45:03] : @end work night
+- [2025-04-02 00:32:15] : @note  that'it for today in python.
+- [2025-04-02 00:31:56] : @note of progress; finish  python langauge specification.
+- [2025-04-01 21:47:54] : @note of progrees: finish chracterizign the models of computation supported by python.
+- [2025-04-01 20:46:11] : @open work night
 - [2025-04-01 16:41:37] : @close work day
 - [2025-04-01 16:41:03] : @note in the house i should continue; working on python, textual and rich.
 - [2025-04-01 14:33:40] : @action finish refactoring System.
