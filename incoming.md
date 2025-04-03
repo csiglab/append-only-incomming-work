@@ -2,6 +2,8 @@
 - [2025-04-03 15:53:52] : @note resume of the day; i try to to make a dissaembler; it's hard but worith as a greaat exercise; then spend the day debugging peoples minds.
 - [2025-04-03 15:53:39] : @note i forget to register the work day; in the morning.
 - [2025-04-03 15:53:06] : @open work day
+- [2025-04-02 17:18:33] : @open work night
+- [2025-04-02 17:18:08] : @close work day
 - [2025-04-02 15:49:31] : @action finish SGF-10357.
 - [2025-04-02 15:08:25] : @task emergencia; trabajar ticket (SGF-10357); nomina y error validacion de pasaoprte.
 - [2025-04-02 14:56:10] : @note i am working very hard on learnign a bit of x86 assembler.
