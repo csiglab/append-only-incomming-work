@@ -1,3 +1,7 @@
+- [2025-04-04 16:29:18] : @close work day
+- [2025-04-04 16:03:28] : @note today i spend the day writing a note on how to engage in conversatio; and related topics.
+- [2025-04-04 07:16:36] : @task escribir documento; laboratorio personal.
+- [2025-04-04 07:16:17] : @open work day
 - [2025-04-03 15:56:41] : @close work day
 - [2025-04-03 15:53:52] : @note resume of the day; i try to to make a dissaembler; it's hard but worith as a greaat exercise; then spend the day debugging peoples minds.
 - [2025-04-03 15:53:39] : @note i forget to register the work day; in the morning.
