@@ -1,3 +1,6 @@
+- [2025-04-05 16:55:51] : @close work day
+- [2025-04-05 09:53:06] : @task pago l; open reading day;  cognitive sciences; psycology; and maths.
+- [2025-04-05 09:52:58] : @open work day
 - [2025-04-04 16:29:18] : @close work day
 - [2025-04-04 16:03:28] : @note today i spend the day writing a note on how to engage in conversatio; and related topics.
 - [2025-04-04 07:16:36] : @task escribir documento; laboratorio personal.
@@ -23,7 +26,7 @@
 - [2025-04-01 16:41:03] : @note in the house i should continue; working on python, textual and rich.
 - [2025-04-01 14:33:40] : @action finish refactoring System.
 - [2025-04-01 14:30:17] : @note finish a note on compositionality
-- [2025-04-01 14:08:13] : @note improve the notes on evaluation
+- [2025-04-01 14:08:13] : @action; create the calculus of the month for payment; and switch to study modelligni an sysetms for the next three months.
 - [2025-04-01 13:40:55] : @note of progress; make some improvements; on; System Design.
 - [2025-04-01 12:07:26] : @note of progress; a lot of progress has been made;  in softwre architecture note; we have already the tooling; architectural components, architectural models (case study), architectur representation; pitfalls; 
 - [2025-04-01 11:12:41] : @action reactoring of the main note of system design.
