@@ -1,5 +1,9 @@
+- [2025-04-07 16:15:05] : @end working day
+- [2025-04-07 16:14:16] : @note i spend the day working on the basic derivative operator; and latter on system identifcation; and state estimation (filtering) ???
+- [2025-04-07 10:38:21] : @action create a "formal structure" ...
+- [2025-04-07 08:28:43] : @task create as structure of notes for bremontix ars.
 - [2025-04-05 16:55:51] : @close work day
-- [2025-04-05 09:53:06] : @task pago l; open reading day;  cognitive sciences; psycology; and maths.
+- [2025-04-05 09:53:06] : @task pago; open reading day;  cognitive sciences; psycology; and maths.
 - [2025-04-05 09:52:58] : @open work day
 - [2025-04-04 16:29:18] : @close work day
 - [2025-04-04 16:03:28] : @note today i spend the day writing a note on how to engage in conversatio; and related topics.
