@@ -1,3 +1,15 @@
+- [2025-04-08 16:20:18] : @close work day
+- [2025-04-08 15:46:19] : @note I have work on the ticket (SGF-10369); fixing again the problem of registration of money cotization.
+- [2025-04-08 15:44:47] : @note I have spend the day; workig on the kalman filter; variane; covariance; 
+- [2025-04-08 09:39:46] : @action create a note on first principles.
+- [2025-04-08 09:25:16] : @action add a entry to algorithms/cm/integral.ipynb; about the integral operatorl.
+- [2025-04-08 09:07:59] : @action clean entry in / bremontix.
+- [2025-04-08 08:56:23] : @action add a note on the limitations of logic.
+- [2025-04-08 08:51:47] : @action add a case on research study case "IQ / Intelligence Metrics"
+- [2025-04-08 08:41:31] : @action create a research note on what to do in case of my nation economic collape.
+- [2025-04-08 08:32:34] : @action add a note on distributed counter.
+- [2025-04-08 08:25:33] : @task clean "Bremontix In".
+- [2025-04-08 08:19:28] : @open work day
 - [2025-04-08 01:54:27] : @end of work night
 - [2025-04-08 00:31:51] : @action improve the  integral operator.
 - [2025-04-08 00:15:31] : @action fix symbol for "Differential Operator".
