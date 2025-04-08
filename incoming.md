@@ -1,3 +1,8 @@
+- [2025-04-08 01:54:27] : @end of work night
+- [2025-04-08 00:31:51] : @action improve the  integral operator.
+- [2025-04-08 00:15:31] : @action fix symbol for "Differential Operator".
+- [2025-04-07 23:50:29] : @action improve system identitifaction notes.
+- [2025-04-07 22:31:40] : @open work night
 - [2025-04-07 16:15:05] : @end working day
 - [2025-04-07 16:14:16] : @note i spend the day working on the basic derivative operator; and latter on system identifcation; and state estimation (filtering) ???
 - [2025-04-07 10:38:21] : @action create a "formal structure" ...
