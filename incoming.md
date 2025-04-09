@@ -1,3 +1,6 @@
+- [2025-04-09 01:41:03] : @end work day
+- [2025-04-09 01:37:10] : @note today i have reson about the meaning of differentiation and integration; the history of calculus; and some fundamentals ideas in analysis.
+- [2025-04-08 21:54:33] : @task work a bit on the book "Mathematics Its Contents, Methods and Meaning"
 - [2025-04-08 01:54:27] : @end of work night
 - [2025-04-08 00:31:51] : @action improve the  integral operator.
 - [2025-04-08 00:15:31] : @action fix symbol for "Differential Operator".
