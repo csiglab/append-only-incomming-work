@@ -1,3 +1,8 @@
+- [2025-04-10 02:04:09] : @close work night
+- [2025-04-10 01:35:41] : @note should i merge all mathematical reserch / fields -> into one big guide.
+- [2025-04-10 00:53:18] : @note i have added some methods to represetn a graph; the laplacian matrix.
+- [2025-04-10 00:52:28] : @note i have practice using khan academy; think deeply about commutativity;  organize some maths notes; add some books to the reading list.
+- [2025-04-09 22:48:05] : @open work night
 - [2025-04-08 16:20:18] : @close work day
 - [2025-04-08 15:46:19] : @note I have work on the ticket (SGF-10369); fixing again the problem of registration of money cotization.
 - [2025-04-08 15:44:47] : @note I have spend the day; workig on the kalman filter; variane; covariance; 
