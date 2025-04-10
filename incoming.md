@@ -1,3 +1,13 @@
+- [2025-04-10 16:14:00] : @end of the work day currating / problems.
+- [2025-04-10 15:23:50] : @action proces  ~ 15 process from "Computer Science Review"
+- [2025-04-10 14:29:13] : @action process ~ 14 process from "Computer Science Review"
+- [2025-04-10 14:03:52] : @action process ~ 20 process from "Computer Science Review"
+- [2025-04-10 13:12:11] : @action process ~ 20 process from "Computer Science Review"
+- [2025-04-10 11:24:29] : @action process ~ 10 process from "Computer Science Review"
+- [2025-04-10 10:51:28] : @action process ~ 20 papers from "Computer Science Review"
+- [2025-04-10 10:15:24] : @action process 20 papers from "Computer Science Review"
+- [2025-04-10 09:20:14] : @note i have begin the day cleaning the keyword;  and verifying the correncness of the
+-  [2025-04-10 09:20:02] : @open work day
 - [2025-04-10 02:04:09] : @close work night
 - [2025-04-10 01:35:41] : @note should i merge all mathematical reserch / fields -> into one big guide.
 - [2025-04-10 00:53:18] : @note i have added some methods to represetn a graph; the laplacian matrix.
