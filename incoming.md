@@ -1,3 +1,9 @@
+- [2025-04-11 02:23:04] : @close working night
+- [2025-04-11 02:22:47] : @note very deep dive into arithmetics; must continue the pre-algebra book.
+- [2025-04-10 23:03:00] : @action create a big guide about the mathematical fields.
+- [2025-04-10 22:12:36] : @action add label to paper boxes
+- [2025-04-10 22:12:24] : @action ortanize books
+- [2025-04-10 22:12:11] : @open work night
 - [2025-04-10 16:14:00] : @end of the work day currating / problems.
 - [2025-04-10 15:23:50] : @action proces  ~ 15 process from "Computer Science Review"
 - [2025-04-10 14:29:13] : @action process ~ 14 process from "Computer Science Review"
