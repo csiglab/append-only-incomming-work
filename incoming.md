@@ -1,3 +1,13 @@
+- [2025-04-11 16:36:43] : @end work day
+- [2025-04-11 16:36:36] : @action add some ml papers
+- [2025-04-11 13:45:53] : @action finish processing all papers from "Bremontix/Computer Science Review"
+- [2025-04-11 11:48:30] : @action process ~20 papers.
+- [2025-04-11 11:29:48] : @action process ~20 papers.
+- [2025-04-11 11:14:54] : @action process ~20 papers.
+- [2025-04-11 10:32:07] : @action process ~20 papers
+- [2025-04-11 09:30:02] : @action process ~20 papers.
+- [2025-04-11 09:01:05] : @action process ~21 papers.
+- [2025-04-11 08:42:52] : @open worknig day
 - [2025-04-11 02:23:04] : @close working night
 - [2025-04-11 02:22:47] : @note very deep dive into arithmetics; must continue the pre-algebra book.
 - [2025-04-10 23:03:00] : @action create a big guide about the mathematical fields.
