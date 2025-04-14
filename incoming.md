@@ -1,3 +1,12 @@
+- [2025-04-13 22:11:18] : @end of work day
+- [2025-04-13 22:10:27] : @note i should really master nn; learn i can learn other learning formulations (representation + evaluation + optimization)
+- [2025-04-13 22:09:45] : @note start of th journey; learning the fundamental algorihm; behind; nn. 
+- [2025-04-13 17:25:10] : @note i have spend time working on gradient descent methods & backprop (for chai of computations) trying to understand the training.
+- [2025-04-13 10:01:06] : @task this  day should be well spend trying to learn more about gradient descent.
+- [2025-04-13 10:00:53] : @open work day
+- [2025-04-12 23:23:07] : @end work day
+- [2025-04-12 23:22:37] : @note this day was spend printing  & organizing papers.
+- [2025-04-12 23:22:31] : @start work day
 - [2025-04-11 16:36:43] : @end work day
 - [2025-04-11 16:36:36] : @action add some ml papers
 - [2025-04-11 13:45:53] : @action finish processing all papers from "Bremontix/Computer Science Review"
