@@ -1,3 +1,8 @@
+- [2025-04-14 16:18:57] : @close work day
+- [2025-04-14 16:17:53] : @note I spend part of the morning; working on back prop.
+- [2025-04-14 16:05:47] : @note today i have several issues to solve in the work one with data restriccions to users (a very intricate system indeed); the other with 
+- [2025-04-14 10:52:49] : @note I have started to work much earlier;
+- [2025-04-14 10:52:41] : @start work day
 - [2025-04-13 22:11:18] : @end of work day
 - [2025-04-13 22:10:27] : @note i should really master nn; learn i can learn other learning formulations (representation + evaluation + optimization)
 - [2025-04-13 22:09:45] : @note start of th journey; learning the fundamental algorihm; behind; nn. 
