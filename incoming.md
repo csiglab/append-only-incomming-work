@@ -1,3 +1,14 @@
+- [2025-04-15 16:52:45] : @end work day
+- [2025-04-15 16:42:33] : @note i have improve the big guide (just pointers) of mathematics.
+- [2025-04-15 13:33:13] : @note I have continue working on arithmetic; characterization scheme (counting, measure, etc).
+- [2025-04-15 11:21:09] : @task I spend some time working on public administration models.
+- [2025-04-15 10:52:17] : @task improve the concept of the operator.
+- [2025-04-15 10:24:49] : @task improve the notion of mathematics; in relation with characterization.
+- [2025-04-15 09:31:53] : @task improve the concept of a linear space.
+- [2025-04-15 09:31:42] : @task improve the concept of a matrix.
+- [2025-04-15 09:15:33] : @task crete script sgf-10379.
+- [2025-04-15 09:03:56] : @task create some entries on dynamical systems.
+- [2025-04-15 09:03:45] : @open work day
 - [2025-04-14 23:25:10] : @end work night
 - [2025-04-14 23:24:56] : @note I spend the night organizing topics in amthematics; very unfinish task indeed. 
 - [2025-04-14 23:24:49] : @open work night
