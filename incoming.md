@@ -1,3 +1,6 @@
+- [2025-04-14 23:25:10] : @end work night
+- [2025-04-14 23:24:56] : @note I spend the night organizing topics in amthematics; very unfinish task indeed. 
+- [2025-04-14 23:24:49] : @open work night
 - [2025-04-14 16:18:57] : @close work day
 - [2025-04-14 16:17:53] : @note I spend part of the morning; working on back prop.
 - [2025-04-14 16:05:47] : @note today i have several issues to solve in the work one with data restriccions to users (a very intricate system indeed); the other with 
