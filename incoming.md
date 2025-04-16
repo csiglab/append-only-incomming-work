@@ -1,3 +1,6 @@
+- [2025-04-16 08:05:47] : @note it is increadible; but even today; I don't understand today; how the weigts are update; usign the computation of the error  and pre-activations. 
+- [2025-04-16 07:54:10] : @note working on a small implementation of backprop.
+- [2025-04-16 07:54:04] : @start working day
 - [2025-04-16 02:22:42] : @close work night
 - [2025-04-16 02:22:23] : @action first passs on the paper "Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536. https://doi.org/10.1038/323533a0"
 - [2025-04-15 23:06:51] : @note work on backprop; (concept, alg implementation).
