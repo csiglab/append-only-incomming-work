@@ -1,3 +1,7 @@
+- [2025-04-16 02:22:42] : @close work night
+- [2025-04-16 02:22:23] : @action first passs on the paper "Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536. https://doi.org/10.1038/323533a0"
+- [2025-04-15 23:06:51] : @note work on backprop; (concept, alg implementation).
+- [2025-04-15 23:06:41] : @open work night
 - [2025-04-15 16:52:45] : @end work day
 - [2025-04-15 16:42:33] : @note i have improve the big guide (just pointers) of mathematics.
 - [2025-04-15 13:33:13] : @note I have continue working on arithmetic; characterization scheme (counting, measure, etc).
