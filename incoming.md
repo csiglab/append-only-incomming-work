@@ -1,3 +1,8 @@
+- [2025-04-17 20:06:12] : @end work day
+- [2025-04-17 20:05:35] : @note  I spend the day improving the statistics entry; and doign some quick refactoring y also analye a bit better the concept of p-value.
+- [2025-04-17 11:09:15] : @action crate a note for the "Exponential Random Graph Model (ERGM)" a fixed structured; process rprenestation; graph generation model.
+- [2025-04-17 10:24:18] : @createw a complete refactoring of observatorional models & computation / ml systems.
+- [2025-04-17 10:23:05] : @start working day
 - [2025-04-16 08:05:47] : @note it is increadible; but even today; I don't understand today; how the weigts are update; usign the computation of the error  and pre-activations. 
 - [2025-04-16 07:54:10] : @note working on a small implementation of backprop.
 - [2025-04-16 07:54:04] : @start working day
