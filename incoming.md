@@ -1,3 +1,8 @@
+- [2025-04-22 16:48:51] : @close work day
+- [2025-04-22 16:47:54] : @note i have to re-do "SGF-10340" in order to ajust to new reqs.
+- [2025-04-22 08:57:13] : @task first of paper "Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78–87."
+- [2025-04-22 08:38:51] : @note i have spend some holly week; studying social theory; and some church history.
+- [2025-04-22 08:38:36] : @open work day
 - [2025-04-16 08:05:47] : @note it is increadible; but even today; I don't understand today; how the weigts are update; usign the computation of the error  and pre-activations. 
 - [2025-04-16 07:54:10] : @note working on a small implementation of backprop.
 - [2025-04-16 07:54:04] : @start working day
