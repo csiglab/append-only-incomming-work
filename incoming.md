@@ -3,6 +3,17 @@
 - [2025-04-22 08:57:13] : @task first of paper "Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78–87."
 - [2025-04-22 08:38:51] : @note i have spend some holly week; studying social theory; and some church history.
 - [2025-04-22 08:38:36] : @open work day
+- [2025-04-19 01:55:45] : @close work day
+- [2025-04-18 15:53:54] : @note fix the entry on philosophy (adding reading books to buy list0; and taking out complexity;
+- [2025-04-18 12:46:40] : @note write letters in "Bremontix Laboratorio"
+- [2025-04-18 12:45:59] : @note the topics in the boook "All of Statistics" all hollistic cover in "Observation".
+- [2025-04-18 12:16:14] : @task make sure tha tth topics in the book of "All of Statistics" are cover in "Observation".
+- [2025-04-18 12:16:07] : @open work day
+- [2025-04-17 20:06:12] : @end work day
+- [2025-04-17 20:05:35] : @note  I spend the day improving the statistics entry; and doign some quick refactoring y also analye a bit better the concept of p-value.
+- [2025-04-17 11:09:15] : @action crate a note for the "Exponential Random Graph Model (ERGM)" a fixed structured; process rprenestation; graph generation model.
+- [2025-04-17 10:24:18] : @createw a complete refactoring of observatorional models & computation / ml systems.
+- [2025-04-17 10:23:05] : @start working day
 - [2025-04-16 08:05:47] : @note it is increadible; but even today; I don't understand today; how the weigts are update; usign the computation of the error  and pre-activations. 
 - [2025-04-16 07:54:10] : @note working on a small implementation of backprop.
 - [2025-04-16 07:54:04] : @start working day
@@ -45,7 +56,7 @@
 - [2025-04-11 11:29:48] : @action process ~20 papers.
 - [2025-04-11 11:14:54] : @action process ~20 papers.
 - [2025-04-11 10:32:07] : @action process ~20 papers
-- [2025-04-11 09:30:02] : @action process ~20 papers.
+- [2025-04-11 09:30:02] : @action process ~20 papers
 - [2025-04-11 09:01:05] : @action process ~21 papers.
 - [2025-04-11 08:42:52] : @open worknig day
 - [2025-04-11 02:23:04] : @close working night
