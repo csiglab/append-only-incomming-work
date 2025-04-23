@@ -1,3 +1,11 @@
+- [2025-04-23 16:16:09] : @close work day
+- [2025-04-23 16:15:45] : @action start translating the document of Erik Dahmen.
+- [2025-04-23 15:21:08] : @action add an entry on formal concept analysis.
+- [2025-04-23 13:49:02] : @action migrade links to pocket.
+- [2025-04-23 13:28:40] : @action improve my knowledge of polynomials.
+- [2025-04-23 13:26:53] : @note in the morny i have been working on; working on tickets (fch registro mercantiul proveedor; se usa como fecha de vencimiento); a bit of mathematics.
+- [2025-04-23 13:26:08] : @note i open the work day too lay today; let's continue registering day actions and thougs; very valuable sinse i have bad memory.
+- [2025-04-23 13:26:00] : @open work day
 - [2025-04-22 16:48:51] : @close work day
 - [2025-04-22 16:47:54] : @note i have to re-do "SGF-10340" in order to ajust to new reqs.
 - [2025-04-22 08:57:13] : @task first of paper "Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78–87."
