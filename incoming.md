@@ -1,3 +1,7 @@
+- [2025-04-24 16:17:49] : @close work day
+- [2025-04-24 16:14:36] : @note i have "flight price prediction" notebook; 
+- [2025-04-24 14:59:39] : @note i have spend all the working money on the paper "Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78–8."
+- [2025-04-24 14:59:32] : @open work day
 - [2025-04-23 16:16:09] : @close work day
 - [2025-04-23 16:15:45] : @action start translating the document of Erik Dahmen.
 - [2025-04-23 15:21:08] : @action add an entry on formal concept analysis.
