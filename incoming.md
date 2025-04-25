@@ -1,3 +1,6 @@
+- [2025-04-25 13:59:25] : @close work day
+- [2025-04-25 09:12:34] : @note start working on price mo@note start working on price modellingg
+- [2025-04-25 09:12:27] : @open work day
 - [2025-04-24 16:17:49] : @close work day
 - [2025-04-24 16:14:36] : @note i have "flight price prediction" notebook; 
 - [2025-04-24 14:59:39] : @note i have spend all the working money on the paper "Domingos, P. (2012). A few useful things to know about machine learning. Communications of the ACM, 55(10), 78–8."
