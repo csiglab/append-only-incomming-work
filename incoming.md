@@ -1,3 +1,11 @@
+- [2025-04-28 16:47:39] : @close working day
+- [2025-04-28 16:47:15] : @note i almost finish the paper on computing machinary and intelligence.
+- [2025-04-28 09:55:12] : @task tell ariel; to find a place for a future; "supermarket + comedor".
+- [2025-04-28 09:55:02] : @task how to model an enterprise;
+- [2025-04-28 09:10:11] : @task "How to compute the investment requirment by the national productive system - to keek the productivity level."
+- [2025-04-28 08:33:06] : @task let's finish the read of "Turing, A. M. (1950). Computing Machinery and Intelligence. Mind, LIX(236), 433–460."
+- [2025-04-28 08:32:37] : @note this weekend I was in the Graduation of my cousing Iss...
+- [2025-04-28 08:32:28] : @open work day
 - [2025-04-25 13:59:25] : @close work day
 - [2025-04-25 09:12:34] : @note start working on price mo@note start working on price modellingg
 - [2025-04-25 09:12:27] : @open work day
@@ -19,9 +27,9 @@
 - [2025-04-22 08:38:51] : @note i have spend some holly week; studying social theory; and some church history.
 - [2025-04-22 08:38:36] : @open work day
 - [2025-04-19 01:55:45] : @close work day
-- [2025-04-18 15:53:54] : @note fix the entry on philosophy (adding reading books to buy list0; and taking out complexity;
+- [2025-04-18 15:53:54] : @note fix the entry on philosophy (adding reading books to buy list; and taking out complexity;
 - [2025-04-18 12:46:40] : @note write letters in "Bremontix Laboratorio"
-- [2025-04-18 12:45:59] : @note the topics in the boook "All of Statistics" all hollistic cover in "Observation".
+- [2025-04-18 12:45:59] : @note the topics in the book "All of Statistics" all hollistic cover in "Observation".
 - [2025-04-18 12:16:14] : @task make sure tha tth topics in the book of "All of Statistics" are cover in "Observation".
 - [2025-04-18 12:16:07] : @open work day
 - [2025-04-17 20:06:12] : @end work day
