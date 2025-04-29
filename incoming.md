@@ -1,3 +1,12 @@
+- [2025-04-29 16:48:28] : @close work day
+- [2025-04-29 16:47:52] : @action - some classes failed to load the foreign keys.
+- [2025-04-29 13:01:43] : @action improve the concept of adaptation and evolution.
+- [2025-04-29 11:09:21] : @action improve the lattice of numbers.
+- [2025-04-29 10:50:26] : @action improve the "Indo-Arabic Numeral"
+- [2025-04-29 10:04:54] : @action improve notes on arithmetic.
+- [2025-04-29 10:04:43] : @action add an entry on reference.
+- [2025-04-29 08:20:33] : @note last night I was working deeply on the concept of a reference system from the perspective of cognitive science.
+- [2025-04-29 08:20:28] : @open work day
 - [2025-04-28 16:47:39] : @close working day
 - [2025-04-28 16:47:15] : @note i almost finish the paper on computing machinary and intelligence.
 - [2025-04-28 09:55:12] : @task tell ariel; to find a place for a future; "supermarket + comedor".
