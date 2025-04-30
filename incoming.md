@@ -1,3 +1,9 @@
+- [2025-04-30 16:13:03] : @close work day
+- [2025-04-30 09:40:12] : @action revserse the decition; a thermodynamics system is a useful abstarction.
+- [2025-04-30 09:26:31] : @action remove the idea of a thermodynamics system; it's not a useful abstraction.
+- [2025-04-30 09:07:46] : @note tengo dos casos pendientes (compras - tramite - error y problema loguedo prb - fisico.
+- [2025-04-30 09:07:24] : @note last night I add the roman numerals; try to reason more deeply about proportion problems.
+- [2025-04-30 09:07:18] : @open work day
 - [2025-04-29 16:48:28] : @close work day
 - [2025-04-29 16:47:52] : @action - some classes failed to load the foreign keys.
 - [2025-04-29 13:01:43] : @action improve the concept of adaptation and evolution.
