@@ -1,3 +1,8 @@
+- [2025-05-01 16:37:08] : @close work day
+- [2025-05-01 12:35:45] : @note I am working on the concept of truth.
+- [2025-05-01 12:34:12] : @note in this morning; i find the error by which prb-1-fisico failed to upload the foreig keys; it has not change the db_owner; and provide a valid one in configuraciobasedatos.xml
+- [2025-05-01 12:32:17] : @note I the last i take a note on the "gamma distribution";  and think deeply about the the "concept of truth".
+- [2025-05-01 12:32:07] : @open work  day
 - [2025-04-30 16:13:03] : @close work day
 - [2025-04-30 09:40:12] : @action revserse the decition; a thermodynamics system is a useful abstarction.
 - [2025-04-30 09:26:31] : @action remove the idea of a thermodynamics system; it's not a useful abstraction.
