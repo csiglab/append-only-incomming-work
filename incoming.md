@@ -1,3 +1,6 @@
+- [2025-05-02 16:28:12] : @close work day
+- [2025-05-02 16:11:56] : @note i was so focus trying to translate  the first chapte - of dahmmen book; then i start trying to standarize the laboratorio arbitrista documents; to make then serchable.
+- [2025-05-02 16:11:46] : @open work day
 - [2025-05-01 16:37:08] : @close work day
 - [2025-05-01 12:35:45] : @note I am working on the concept of truth.
 - [2025-05-01 12:34:12] : @note in this morning; i find the error by which prb-1-fisico failed to upload the foreig keys; it has not change the db_owner; and provide a valid one in configuraciobasedatos.xml
