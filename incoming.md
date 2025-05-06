@@ -1,3 +1,9 @@
+- [2025-05-06 16:10:16] : @note add another - science case study o disipative systems.
+- [2025-05-06 14:28:03] : @action improve organization in 'Bremontix'
+- [2025-05-06 13:33:00] : @action finish chapter 3 of dahmen book "The general economic development in the interwar period in relation to the international background"
+- [2025-05-06 08:24:15] : note: I will be much more productive; If i take out; twitter; the idea of be explosed to great ideas;  when i can search it; in a  syncronized way (learning / problems - needs on demand); rather than (ideas -> to see if they latter are useful to solve prlblems); when i don't even master the ideas; myself.
+- [2025-05-06 08:21:46] : note: In this long weekend the following was archiev: reflection on the idea of "idea"; a reflection on the idea of a concep; the reflection on the idea of a modelling framework; reflection on the idea of modelling framework;  and improvement to the notes on behavioral sciences; an improvement on the idea of Justice; trying to understand time dilation; finish the first chapter on  "Mitchell, M. (2009). Complexity: A Guided Tour. Oxford University Press."; Improve my notes on geometry; improve the concept of momentus;  create different entries for biology and physics.
+- [2025-05-06 08:21:38] : @open work day
 - [2025-05-02 16:28:12] : @close work day
 - [2025-05-02 16:11:56] : @note i was so focus trying to translate  the first chapte - of dahmmen book; then i start trying to standarize the laboratorio arbitrista documents; to make then serchable.
 - [2025-05-02 16:11:46] : @open work day
