@@ -1,3 +1,8 @@
+- [2025-05-07 16:09:20] : @close work day
+- [2025-05-07 09:42:56] : @note in the morning; I have improve the notes on differential equations; and integral calculus to reflect that the function being integrated; is a derivate; that capture the rate of change.
+- [2025-05-07 09:42:26] : @task (start working again on SGF-10340).
+- [2025-05-07 09:36:29] : @note on the night; I have spend time working; on differential equation basic example.
+- [2025-05-07 09:36:17] : @open work day
 - [2025-05-06 16:10:16] : @note add another - science case study o disipative systems.
 - [2025-05-06 14:28:03] : @action improve organization in 'Bremontix'
 - [2025-05-06 13:33:00] : @action finish chapter 3 of dahmen book "The general economic development in the interwar period in relation to the international background"
