@@ -1,3 +1,10 @@
+- [2025-05-08 17:56:18] : @close work day
+- [2025-05-08 17:53:57] : @action finish the ticket (SGF@action finish the ticket ()SGF-10420)
+- [2025-05-08 10:11:35] : @note how to improve inter-disciplinary research.
+- [2025-05-08 10:10:57] : @reason deeply about the technmology space; research space; basic science research; production space; service space;
+- [2025-05-08 10:07:43] : @task(SGF-10340): Continue working on. 
+- [2025-05-08 10:07:19] : @note in the morning I improve my information on differential equations.
+- [2025-05-08 10:07:09] : @open work day
 - [2025-05-07 16:09:20] : @close work day
 - [2025-05-07 09:42:56] : @note in the morning; I have improve the notes on differential equations; and integral calculus to reflect that the function being integrated; is a derivate; that capture the rate of change.
 - [2025-05-07 09:42:26] : @task (start working again on SGF-10340).
