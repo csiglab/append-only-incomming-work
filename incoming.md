@@ -1,3 +1,14 @@
+- [2025-05-13 16:37:28] : @close work day
+- [2025-05-13 15:09:43] : @note - SIR-681 -  resulto que unos cambios fueron reemplazados.
+- [2025-05-13 15:08:57] : @note finish ticket contabilidad.
+- [2025-05-13 08:31:04] : @note reasoning about how to  store secret keys;  store by accident the comtrade keys.
+- [2025-05-13 08:29:07] : @note (SGF-10340) Ticket Contabilidad; i have to finish before 12:00 PM.
+- [2025-05-13 08:29:01] : @open work day
+- [2025-05-13 08:28:51] : @close work day
+- [2025-05-13 08:28:07] : @note summary; i have access to comtrade database; i have continue exploring the ideas of modelling social systems; and reading the "what you exports matter".
+- [2025-05-13 08:27:49] : @note i falied to continue taking the notes of the day; it's really important.
+- [2025-05-12 08:37:11] : @note this weeking i have re-started:what thinking deeply about social systems and the future of the dominican republic.
+- [2025-05-12 08:36:56] : @start  work day
 - [2025-05-08 17:56:18] : @close work day
 - [2025-05-08 17:53:57] : @action finish the ticket (SGF@action finish the ticket ()SGF-10420)
 - [2025-05-08 10:11:35] : @note how to improve inter-disciplinary research.
