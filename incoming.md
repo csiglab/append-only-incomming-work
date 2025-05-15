@@ -1,3 +1,10 @@
+- [2025-05-15 16:46:52] : @close work day
+- [2025-05-15 16:45:58] : @note i  have spend all the day working on the ticket SGF-10437. I believe i have found the error; but need for information.
+- [2025-05-15 08:49:21] : @task(SGF-10437) work on ticket "TK65306-Investigacion para identificar funcionamiento del regimen de modificaciones presupuestarias./Ajuste a modalidad predefinida en el regimen de modificaciones presupuestarias."
+- [2025-05-15 08:49:09] : @open work day
+- [2025-05-15 08:49:01] : @close work day
+- [2025-05-14 09:03:22] : @task improve notes on HS Codes.
+- [2025-05-14 09:03:14] : @open work day
 - [2025-05-13 16:37:28] : @close work day
 - [2025-05-13 15:09:43] : @note - SIR-681 -  resulto que unos cambios fueron reemplazados.
 - [2025-05-13 15:08:57] : @note finish ticket contabilidad.
