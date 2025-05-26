@@ -1,3 +1,14 @@
+- [2025-05-26 16:16:54] : @end of the day
+- [2025-05-26 16:16:38] : @note I have continue working hard on modelling social systems.
+- [2025-05-26 16:16:20] : @note i spend the day workign and finish the ticket SGF-10340.
+- [2025-05-26 12:13:11] : @note move the note of "A History of Economic Thought to modelling"
+- [2025-05-26 09:49:18] : @note start working on "(SGF-10340) TK57402-Mejorar la funcionalidad “Registro de Asientos Diarios Manuales”"; again.
+- [2025-05-26 09:13:13] : @Note I Have stop adding notes here; almost for a week now; this is wrong; I should at least continue to add my main accomplisments of the day.
+- [2025-05-26 09:13:03] : @open work day
+- [2025-05-16 13:08:47] : @note improve RD 2.0
+- [2025-05-16 13:06:57] : @note start working on arbistrista labs.
+- [2025-05-16 13:05:32] : @note in the morning I have been workign with (SGF-10437) - Modificaciones prespuestarias. I have explain the work.    
+- [2025-05-16 13:05:23] : @start work day
 - [2025-05-15 16:46:52] : @close work day
 - [2025-05-15 16:45:58] : @note i  have spend all the day working on the ticket SGF-10437. I believe i have found the error; but need for information.
 - [2025-05-15 08:49:21] : @task(SGF-10437) work on ticket "TK65306-Investigacion para identificar funcionamiento del regimen de modificaciones presupuestarias./Ajuste a modalidad predefinida en el regimen de modificaciones presupuestarias."
